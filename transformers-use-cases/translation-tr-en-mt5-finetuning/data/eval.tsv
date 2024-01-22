@@ -1,0 +1,501 @@
+	prefix	input_text	target_text
+0	translate turkish to english	Belki onu yapmamalÄ±ydÄ±m.	Maybe I shouldn't have done that.
+1	translate english to turkish	Maybe I shouldn't have done that.	Belki onu yapmamalÄ±ydÄ±m.
+2	translate turkish to english	HiÃ§bir ÅŸeyin eksik olduÄŸunu sanmÄ±yorum.	I don't think anything's missing.
+3	translate english to turkish	I don't think anything's missing.	HiÃ§bir ÅŸeyin eksik olduÄŸunu sanmÄ±yorum.
+4	translate turkish to english	Ã‡ok iyi yaptÄ±n. Bence o etkilendi.	I think he's impressed.
+5	translate english to turkish	I think he's impressed.	Ã‡ok iyi yaptÄ±n. Bence o etkilendi.
+6	translate turkish to english	Tom planÄ±nÄ±n Ã§ok iyi olmadÄ±ÄŸÄ±nÄ± biliyordu.	Tom knew his plan wasn't very good.
+7	translate english to turkish	Tom knew his plan wasn't very good.	Tom planÄ±nÄ±n Ã§ok iyi olmadÄ±ÄŸÄ±nÄ± biliyordu.
+8	translate turkish to english	Sizinle kaÃ§mak istedim.	I wanted to run away with you.
+9	translate english to turkish	I wanted to run away with you.	Sizinle kaÃ§mak istedim.
+10	translate turkish to english	O, yeni gelen stajyer.	He's the new intern.
+11	translate english to turkish	He's the new intern.	O, yeni gelen stajyer.
+12	translate turkish to english	Onu yapmanÄ± asla istemedim.	I never asked you to do that.
+13	translate english to turkish	I never asked you to do that.	Onu yapmanÄ± asla istemedim.
+14	translate turkish to english	Sami mahkum olacaÄŸÄ±nÄ± asla dÃ¼ÅŸÃ¼nmemiÅŸti.	Sami never thought he'd be convicted.
+15	translate english to turkish	Sami never thought he'd be convicted.	Sami mahkum olacaÄŸÄ±nÄ± asla dÃ¼ÅŸÃ¼nmemiÅŸti.
+16	translate turkish to english	BaÅŸarÄ±lÄ± olacaÄŸÄ±ndan eminim.	I'm sure you'll succeed.
+17	translate english to turkish	I'm sure you'll succeed.	BaÅŸarÄ±lÄ± olacaÄŸÄ±ndan eminim.
+18	translate turkish to english	SakÄ±n aÄŸlama!	Don't cry!
+19	translate english to turkish	Don't cry!	SakÄ±n aÄŸlama!
+20	translate turkish to english	Valentine 1911 yÄ±lÄ±nda Havre'da doÄŸdu.	Valentine was born in the Havre in 1911.
+21	translate english to turkish	Valentine was born in the Havre in 1911.	Valentine 1911 yÄ±lÄ±nda Havre'da doÄŸdu.
+22	translate turkish to english	Ã‡aÄŸrÄ±yÄ± iptal etmeme gerek var mÄ±?	Do I need to cancel the call?
+23	translate english to turkish	Do I need to cancel the call?	Ã‡aÄŸrÄ±yÄ± iptal etmeme gerek var mÄ±?
+24	translate turkish to english	Onun korkusu yok.	He has no fear.
+25	translate english to turkish	He has no fear.	Onun korkusu yok.
+26	translate turkish to english	Risk Ã§ok fazla bÃ¼yÃ¼k.	The risk is too great.
+27	translate english to turkish	The risk is too great.	Risk Ã§ok fazla bÃ¼yÃ¼k.
+28	translate turkish to english	Tom'un anne ve babasÄ± Afrika'da misyonerdiler.	Tom's parents were missionaries in Africa.
+29	translate english to turkish	Tom's parents were missionaries in Africa.	Tom'un anne ve babasÄ± Afrika'da misyonerdiler.
+30	translate turkish to english	ArtÄ±k onun kaÃ§Ä±nÄ±lmaz olduÄŸunu dÃ¼ÅŸÃ¼nÃ¼yorum.	I think it's inevitable now.
+31	translate english to turkish	I think it's inevitable now.	ArtÄ±k onun kaÃ§Ä±nÄ±lmaz olduÄŸunu dÃ¼ÅŸÃ¼nÃ¼yorum.
+32	translate turkish to english	Daha fazla meyve yemelisiniz.	You should eat more fruit.
+33	translate english to turkish	You should eat more fruit.	Daha fazla meyve yemelisiniz.
+34	translate turkish to english	Tom burada bir fikri var.	Tom has an idea here.
+35	translate english to turkish	Tom has an idea here.	Tom burada bir fikri var.
+36	translate turkish to english	Bay Smith Ã¶ÄŸle yemeÄŸi yemek iÃ§in dÄ±ÅŸarÄ± Ã§Ä±ktÄ±.	Mr Smith went out for lunch.
+37	translate english to turkish	Mr Smith went out for lunch.	Bay Smith Ã¶ÄŸle yemeÄŸi yemek iÃ§in dÄ±ÅŸarÄ± Ã§Ä±ktÄ±.
+38	translate turkish to english	HenÃ¼z bir ÅŸey duymadÄ±k.	We haven't heard anything yet.
+39	translate english to turkish	We haven't heard anything yet.	HenÃ¼z bir ÅŸey duymadÄ±k.
+40	translate turkish to english	Tom kendinden nefret ediyor.	Tom hates himself.
+41	translate english to turkish	Tom hates himself.	Tom kendinden nefret ediyor.
+42	translate turkish to english	Onunla sohbet ettim.	I had a conversation with him.
+43	translate english to turkish	I had a conversation with him.	Onunla sohbet ettim.
+44	translate turkish to english	Onunla konuÅŸabilir misin?	Can you talk to him?
+45	translate english to turkish	Can you talk to him?	Onunla konuÅŸabilir misin?
+46	translate turkish to english	Tren saat dokuzda kalkar, saat onda oraya varÄ±r.	The train leaves at nine and arrives at ten o'clock.
+47	translate english to turkish	The train leaves at nine and arrives at ten o'clock.	Tren saat dokuzda kalkar, saat onda oraya varÄ±r.
+48	translate turkish to english	Bu Tom ne sÃ¶yledi?	What did this Tom say?
+49	translate english to turkish	What did this Tom say?	Bu Tom ne sÃ¶yledi?
+50	translate turkish to english	Tom iÃ§ki iÃ§iyor mu?	Does Tom drink?
+51	translate english to turkish	Does Tom drink?	Tom iÃ§ki iÃ§iyor mu?
+52	translate turkish to english	Uzun zamandÄ±r bunu bekliyorum.	I've been waiting a long time for this.
+53	translate english to turkish	I've been waiting a long time for this.	Uzun zamandÄ±r bunu bekliyorum.
+54	translate turkish to english	Sorsak ya.	Why don't we ask him?
+55	translate english to turkish	Why don't we ask him?	Sorsak ya.
+56	translate turkish to english	Tom sana bir ÅŸey sÃ¶ylemek istedi.	Tom wanted to tell you something.
+57	translate english to turkish	Tom wanted to tell you something.	Tom sana bir ÅŸey sÃ¶ylemek istedi.
+58	translate turkish to english	Sadece onun hakkÄ±nda dÃ¼ÅŸÃ¼nmemeye Ã§alÄ±ÅŸÄ±yorum.	I'm just trying not to think about it.
+59	translate english to turkish	I'm just trying not to think about it.	Sadece onun hakkÄ±nda dÃ¼ÅŸÃ¼nmemeye Ã§alÄ±ÅŸÄ±yorum.
+60	translate turkish to english	Tom bu Ã¶ÄŸleden sonra eve Ã§ok yorgun geldi.	Tom came home very tired this afternoon.
+61	translate english to turkish	Tom came home very tired this afternoon.	Tom bu Ã¶ÄŸleden sonra eve Ã§ok yorgun geldi.
+62	translate turkish to english	Ufa 1547 yÄ±lÄ±nda 4. Ä°van'Ä±n (daha yaygÄ±n biÃ§imde KorkunÃ§ Ä°van olarak bilinir) emirleriyle inÅŸa edilmiÅŸtir.	The Ufa was built in 1547 by orders of Ivan IV (known more commonly as Ivan the Terrible).
+63	translate english to turkish	The Ufa was built in 1547 by orders of Ivan IV (known more commonly as Ivan the Terrible).	Ufa 1547 yÄ±lÄ±nda 4. Ä°van'Ä±n (daha yaygÄ±n biÃ§imde KorkunÃ§ Ä°van olarak bilinir) emirleriyle inÅŸa edilmiÅŸtir.
+64	translate turkish to english	ArtÄ±k iÃ§ki iÃ§meyeceÄŸim diye kendi kendime sÃ¶z vermiÅŸtim.	I promised myself I wouldn't drink anymore.
+65	translate english to turkish	I promised myself I wouldn't drink anymore.	ArtÄ±k iÃ§ki iÃ§meyeceÄŸim diye kendi kendime sÃ¶z vermiÅŸtim.
+66	translate turkish to english	KitabÄ± ÅŸans eseri buldum.	I found the book by chance.
+67	translate english to turkish	I found the book by chance.	KitabÄ± ÅŸans eseri buldum.
+68	translate turkish to english	YarÄ±n geri geleceÄŸiz.	We'll be back tomorrow.
+69	translate english to turkish	We'll be back tomorrow.	YarÄ±n geri geleceÄŸiz.
+70	translate turkish to english	Pazartesi gÃ¼nÃ¼ yeni iÅŸime baÅŸladÄ±m.	I started my new job on Monday.
+71	translate english to turkish	I started my new job on Monday.	Pazartesi gÃ¼nÃ¼ yeni iÅŸime baÅŸladÄ±m.
+72	translate turkish to english	Maliyet beÅŸ bin yene vardÄ±.	Costs 5,000 yen.
+73	translate english to turkish	Costs 5,000 yen.	Maliyet beÅŸ bin yene vardÄ±.
+74	translate turkish to english	Film, genÃ§ler arasÄ±nda popÃ¼ler.	The film is popular among young people.
+75	translate english to turkish	The film is popular among young people.	Film, genÃ§ler arasÄ±nda popÃ¼ler.
+76	translate turkish to english	Tom Jackson, Mary'nin yeni avukatÄ±dÄ±r.	Tom Jackson is Mary's new lawyer.
+77	translate english to turkish	Tom Jackson is Mary's new lawyer.	Tom Jackson, Mary'nin yeni avukatÄ±dÄ±r.
+78	translate turkish to english	Ã‡ocuklar Ã§ok hÄ±zlÄ± bÃ¼yÃ¼yorlar.	Kids grow up so fast.
+79	translate english to turkish	Kids grow up so fast.	Ã‡ocuklar Ã§ok hÄ±zlÄ± bÃ¼yÃ¼yorlar.
+80	translate turkish to english	Beni yakalamalarÄ±na izin veremem.	I can't let them catch me.
+81	translate english to turkish	I can't let them catch me.	Beni yakalamalarÄ±na izin veremem.
+82	translate turkish to english	GerÃ§ekten onu yapmamÄ±za gerek yok mu sanÄ±yorsun?	Do you really think we don't need to do that?
+83	translate english to turkish	Do you really think we don't need to do that?	GerÃ§ekten onu yapmamÄ±za gerek yok mu sanÄ±yorsun?
+84	translate turkish to english	SÄ±nav iÃ§in Ã§ok Ã§alÄ±ÅŸmadÄ±ÄŸÄ±ma piÅŸmanÄ±m.	I regret not working too hard for the exam.
+85	translate english to turkish	I regret not working too hard for the exam.	SÄ±nav iÃ§in Ã§ok Ã§alÄ±ÅŸmadÄ±ÄŸÄ±ma piÅŸmanÄ±m.
+86	translate turkish to english	Annem nerede?	Where's Mom?
+87	translate english to turkish	Where's Mom?	Annem nerede?
+88	translate turkish to english	Tom'un o zaman Boston'da olduÄŸuna eminim.	I'm sure Tom was in Boston at that time.
+89	translate english to turkish	I'm sure Tom was in Boston at that time.	Tom'un o zaman Boston'da olduÄŸuna eminim.
+90	translate turkish to english	Hangisini seÃ§mem gerektiÄŸini dÃ¼ÅŸÃ¼nÃ¼yorsun?	Which one do you think I should choose?
+91	translate english to turkish	Which one do you think I should choose?	Hangisini seÃ§mem gerektiÄŸini dÃ¼ÅŸÃ¼nÃ¼yorsun?
+92	translate turkish to english	Gece yarÄ±sÄ±na kadar vaktin var.	You have until midnight.
+93	translate english to turkish	You have until midnight.	Gece yarÄ±sÄ±na kadar vaktin var.
+94	translate turkish to english	Tom tek bir kelime sÃ¶yleyemedi.	Tom couldn't say a word.
+95	translate english to turkish	Tom couldn't say a word.	Tom tek bir kelime sÃ¶yleyemedi.
+96	translate turkish to english	Uyurken cÃ¼zdanÄ±mÄ± Ã§aldÄ±rdÄ±m.	I had my wallet stolen while I was sleeping.
+97	translate english to turkish	I had my wallet stolen while I was sleeping.	Uyurken cÃ¼zdanÄ±mÄ± Ã§aldÄ±rdÄ±m.
+98	translate turkish to english	GÃ¶zlÃ¼ksÃ¼z okuyamÄ±yorum.	I can't read without my glasses.
+99	translate english to turkish	I can't read without my glasses.	GÃ¶zlÃ¼ksÃ¼z okuyamÄ±yorum.
+100	translate turkish to english	KutlayalÄ±m.	Let's celebrate.
+101	translate english to turkish	Let's celebrate.	KutlayalÄ±m.
+102	translate turkish to english	ZamanÄ±mÄ± seninle boÅŸa harcadÄ±ÄŸÄ±ma inanamÄ±yorum.	I can't believe I'm wasting my time with you.
+103	translate english to turkish	I can't believe I'm wasting my time with you.	ZamanÄ±mÄ± seninle boÅŸa harcadÄ±ÄŸÄ±ma inanamÄ±yorum.
+104	translate turkish to english	Tom'un Mary'yi Ã¶peceÄŸini dÃ¼ÅŸÃ¼nÃ¼yor musun?	Do you think Tom will kiss Mary?
+105	translate english to turkish	Do you think Tom will kiss Mary?	Tom'un Mary'yi Ã¶peceÄŸini dÃ¼ÅŸÃ¼nÃ¼yor musun?
+106	translate turkish to english	Neden hepimiz gitmiyoruz?	Why don't we all go?
+107	translate english to turkish	Why don't we all go?	Neden hepimiz gitmiyoruz?
+108	translate turkish to english	Tom Ã§ocuklarla nasÄ±l konuÅŸacaÄŸÄ±nÄ± bilir.	Tom knows how to talk to children.
+109	translate english to turkish	Tom knows how to talk to children.	Tom Ã§ocuklarla nasÄ±l konuÅŸacaÄŸÄ±nÄ± bilir.
+110	translate turkish to english	O daha Ã§ok vaatlerle beni alÄ±koymaya Ã§alÄ±ÅŸtÄ±.	He tried to hold me back with more promises.
+111	translate english to turkish	He tried to hold me back with more promises.	O daha Ã§ok vaatlerle beni alÄ±koymaya Ã§alÄ±ÅŸtÄ±.
+112	translate turkish to english	Bunu yapanÄ±n onlar olduÄŸundan eminim.	I'm sure they're the ones who did this.
+113	translate english to turkish	I'm sure they're the ones who did this.	Bunu yapanÄ±n onlar olduÄŸundan eminim.
+114	translate turkish to english	Tom yemek Ã§ubuklarÄ±yla nasÄ±l yemek yiyeceÄŸini bilmiyor.	Tom doesn't know how to eat with chopsticks.
+115	translate english to turkish	Tom doesn't know how to eat with chopsticks.	Tom yemek Ã§ubuklarÄ±yla nasÄ±l yemek yiyeceÄŸini bilmiyor.
+116	translate turkish to english	Tom, Mary'nin nerede yaÅŸamak istediÄŸini merak etti.	Tom wondered where Mary wanted to live.
+117	translate english to turkish	Tom wondered where Mary wanted to live.	Tom, Mary'nin nerede yaÅŸamak istediÄŸini merak etti.
+118	translate turkish to english	O, savaÅŸ baÅŸladÄ±ÄŸÄ±nda Ä°ngiltere'de yaÅŸÄ±yordu.	He lived in England when the war began.
+119	translate english to turkish	He lived in England when the war began.	O, savaÅŸ baÅŸladÄ±ÄŸÄ±nda Ä°ngiltere'de yaÅŸÄ±yordu.
+120	translate turkish to english	Onlar Ä°ngilizce Ã¶ÄŸrenmek isterler.	They want to learn English.
+121	translate english to turkish	They want to learn English.	Onlar Ä°ngilizce Ã¶ÄŸrenmek isterler.
+122	translate turkish to english	SÄ±rt Ã§antamÄ± evde bÄ±raktÄ±m.	I left my backpack at home.
+123	translate english to turkish	I left my backpack at home.	SÄ±rt Ã§antamÄ± evde bÄ±raktÄ±m.
+124	translate turkish to english	KapÄ±yÄ± aÃ§tÄ±m ve kamyonetten Ã§Ä±ktÄ±m.	I opened the door and got out of the truck.
+125	translate english to turkish	I opened the door and got out of the truck.	KapÄ±yÄ± aÃ§tÄ±m ve kamyonetten Ã§Ä±ktÄ±m.
+126	translate turkish to english	Ben onu nasÄ±l gÃ¶rmedim bilmiyorum.	I don't know how I didn't see him.
+127	translate english to turkish	I don't know how I didn't see him.	Ben onu nasÄ±l gÃ¶rmedim bilmiyorum.
+128	translate turkish to english	Ben Paris'e gezi yaptÄ±m.	I took a trip to Paris.
+129	translate english to turkish	I took a trip to Paris.	Ben Paris'e gezi yaptÄ±m.
+130	translate turkish to english	Fazladan biraz daha param olsa fena olmazdÄ±.	I could use a little extra money.
+131	translate english to turkish	I could use a little extra money.	Fazladan biraz daha param olsa fena olmazdÄ±.
+132	translate turkish to english	Turna, kÃ¶peÄŸin aksine, uÃ§mayÄ± hiÃ§ hayal etmemiÅŸ.	Crane, unlike the dog, never dreamed of flying.
+133	translate english to turkish	Crane, unlike the dog, never dreamed of flying.	Turna, kÃ¶peÄŸin aksine, uÃ§mayÄ± hiÃ§ hayal etmemiÅŸ.
+134	translate turkish to english	Onunla arkadaÅŸ olamam.	I can't be friends with him.
+135	translate english to turkish	I can't be friends with him.	Onunla arkadaÅŸ olamam.
+136	translate turkish to english	Evet, doÄŸru ama onun bunu bilmesi gerekmiyor.	Yeah, that's true, but he doesn't need to know that.
+137	translate english to turkish	Yeah, that's true, but he doesn't need to know that.	Evet, doÄŸru ama onun bunu bilmesi gerekmiyor.
+138	translate turkish to english	Tom buraya iki haftada bir gelir.	Tom comes here every other week.
+139	translate english to turkish	Tom comes here every other week.	Tom buraya iki haftada bir gelir.
+140	translate turkish to english	Tom ÅŸÃ¼phe edilmez.	Tom is unquestionable.
+141	translate english to turkish	Tom is unquestionable.	Tom ÅŸÃ¼phe edilmez.
+142	translate turkish to english	BirÃ§ok biyometrik sistem parmak izi tarayÄ±cÄ±sÄ± tabanlÄ±dÄ±r.	Many biometric systems are based on a fingerprint scanner.
+143	translate english to turkish	Many biometric systems are based on a fingerprint scanner.	BirÃ§ok biyometrik sistem parmak izi tarayÄ±cÄ±sÄ± tabanlÄ±dÄ±r.
+144	translate turkish to english	Tom'un beni Ã¶ldÃ¼rmesinden korkuyorum.	I'm afraid Tom will kill me.
+145	translate english to turkish	I'm afraid Tom will kill me.	Tom'un beni Ã¶ldÃ¼rmesinden korkuyorum.
+146	translate turkish to english	AnlamadÄ±ÄŸÄ±n ÅŸeyden nefret etme.	Don't hate what you don't understand.
+147	translate english to turkish	Don't hate what you don't understand.	AnlamadÄ±ÄŸÄ±n ÅŸeyden nefret etme.
+148	translate turkish to english	Nereden?	Where?
+149	translate english to turkish	Where?	Nereden?
+150	translate turkish to english	Onu bugÃ¼n yapmak istemiyorum.	I don't want to do that today.
+151	translate english to turkish	I don't want to do that today.	Onu bugÃ¼n yapmak istemiyorum.
+152	translate turkish to english	Sami'nin Leyla'nÄ±n bir erkek arkadaÅŸÄ± olduÄŸu hakkÄ±nda hiÃ§ fikri yoktu.	Sami had no idea Layla had a boyfriend.
+153	translate english to turkish	Sami had no idea Layla had a boyfriend.	Sami'nin Leyla'nÄ±n bir erkek arkadaÅŸÄ± olduÄŸu hakkÄ±nda hiÃ§ fikri yoktu.
+154	translate turkish to english	Onu tanÄ±yorum, ama sen tanÄ±mazsÄ±n.	I know him, but you don't.
+155	translate english to turkish	I know him, but you don't.	Onu tanÄ±yorum, ama sen tanÄ±mazsÄ±n.
+156	translate turkish to english	Tom'a her ÅŸeyi sÃ¶ylerdim.	I'd tell Tom anything.
+157	translate english to turkish	I'd tell Tom anything.	Tom'a her ÅŸeyi sÃ¶ylerdim.
+158	translate turkish to english	Bu Ã§ok popÃ¼ler.	It's very popular.
+159	translate english to turkish	It's very popular.	Bu Ã§ok popÃ¼ler.
+160	translate turkish to english	Bu gece akÅŸam yemeÄŸini piÅŸirmene yardÄ±m edeceÄŸim.	I'll help you cook dinner tonight.
+161	translate english to turkish	I'll help you cook dinner tonight.	Bu gece akÅŸam yemeÄŸini piÅŸirmene yardÄ±m edeceÄŸim.
+162	translate turkish to english	Caddeler parlak bir biÃ§imde aydÄ±nlatÄ±lmÄ±ÅŸ.	The streets are brightly lit.
+163	translate english to turkish	The streets are brightly lit.	Caddeler parlak bir biÃ§imde aydÄ±nlatÄ±lmÄ±ÅŸ.
+164	translate turkish to english	HiÃ§ patlamÄ±ÅŸ mÄ±sÄ±r istemiyorum.	I don't want any popcorn.
+165	translate english to turkish	I don't want any popcorn.	HiÃ§ patlamÄ±ÅŸ mÄ±sÄ±r istemiyorum.
+166	translate turkish to english	Sadece onu gÃ¶rdÃ¼n mÃ¼?	Did you just see him?
+167	translate english to turkish	Did you just see him?	Sadece onu gÃ¶rdÃ¼n mÃ¼?
+168	translate turkish to english	Ã–n yargÄ±lÄ± olma.	Don't be judgmental.
+169	translate english to turkish	Don't be judgmental.	Ã–n yargÄ±lÄ± olma.
+170	translate turkish to english	Bir yerli gibi konuÅŸacaÄŸÄ±mÄ± sanmÄ±yorum ve gerÃ§ekten konuÅŸmam gerektiÄŸini sanmÄ±yorum.	I don't think I'm gonna talk like a native, and I really don't think I should.
+171	translate english to turkish	I don't think I'm gonna talk like a native, and I really don't think I should.	Bir yerli gibi konuÅŸacaÄŸÄ±mÄ± sanmÄ±yorum ve gerÃ§ekten konuÅŸmam gerektiÄŸini sanmÄ±yorum.
+172	translate turkish to english	Ã‡evremizdeki karanlÄ±k simsiyahtÄ±.	The darkness around us was black.
+173	translate english to turkish	The darkness around us was black.	Ã‡evremizdeki karanlÄ±k simsiyahtÄ±.
+174	translate turkish to english	Ben iÅŸ dÃ¼nyasÄ±nda onun baÅŸarÄ±lÄ± olacaÄŸÄ±ndan eminim.	I'm sure he'll succeed in business.
+175	translate english to turkish	I'm sure he'll succeed in business.	Ben iÅŸ dÃ¼nyasÄ±nda onun baÅŸarÄ±lÄ± olacaÄŸÄ±ndan eminim.
+176	translate turkish to english	Buna Normandiya Ä°stilasÄ± denilir.	It's called the Normandy Invasion.
+177	translate english to turkish	It's called the Normandy Invasion.	Buna Normandiya Ä°stilasÄ± denilir.
+178	translate turkish to english	O bir hayalet yazar.	He's a ghost writer.
+179	translate english to turkish	He's a ghost writer.	O bir hayalet yazar.
+180	translate turkish to english	HÃ¢lÃ¢ bir Ã¶ÄŸretmen misin?	Are you still a teacher?
+181	translate english to turkish	Are you still a teacher?	HÃ¢lÃ¢ bir Ã¶ÄŸretmen misin?
+182	translate turkish to english	Onlar Tom'u serbest bÄ±raktÄ±lar.	They released Tom.
+183	translate english to turkish	They released Tom.	Onlar Tom'u serbest bÄ±raktÄ±lar.
+184	translate turkish to english	TakÄ±m elbise giyen tek kiÅŸi Tom deÄŸildi.	Tom wasn't the only one wearing a suit.
+185	translate english to turkish	Tom wasn't the only one wearing a suit.	TakÄ±m elbise giyen tek kiÅŸi Tom deÄŸildi.
+186	translate turkish to english	O ismi daha Ã¶nce bir yerde duydum.	I've heard that name somewhere before.
+187	translate english to turkish	I've heard that name somewhere before.	O ismi daha Ã¶nce bir yerde duydum.
+188	translate turkish to english	Bu gerÃ§ek olamayacak kadar Ã§ok iyi.	This is too good to be true.
+189	translate english to turkish	This is too good to be true.	Bu gerÃ§ek olamayacak kadar Ã§ok iyi.
+190	translate turkish to english	Ne uzun bir salatalÄ±k.	What a long cucumber.
+191	translate english to turkish	What a long cucumber.	Ne uzun bir salatalÄ±k.
+192	translate turkish to english	Onu ÅŸimdi yapmak zorunda deÄŸilsin.	You don't have to do that now.
+193	translate english to turkish	You don't have to do that now.	Onu ÅŸimdi yapmak zorunda deÄŸilsin.
+194	translate turkish to english	Tom konuÅŸmuyordu.	Tom wasn't talking.
+195	translate english to turkish	Tom wasn't talking.	Tom konuÅŸmuyordu.
+196	translate turkish to english	HakkÄ±nda yazacak bir ÅŸey dÃ¼ÅŸÃ¼nemiyorum.	I can't think of anything to write about.
+197	translate english to turkish	I can't think of anything to write about.	HakkÄ±nda yazacak bir ÅŸey dÃ¼ÅŸÃ¼nemiyorum.
+198	translate turkish to english	Biraz sarhoÅŸ hissediyorum.	I feel a little drunk.
+199	translate english to turkish	I feel a little drunk.	Biraz sarhoÅŸ hissediyorum.
+200	translate turkish to english	BaÅŸta ona inanmadÄ±m.	At first, I didn't believe him.
+201	translate english to turkish	At first, I didn't believe him.	BaÅŸta ona inanmadÄ±m.
+202	translate turkish to english	Babam beni bir avukat yapmak istiyor.	My father wants to make me a lawyer.
+203	translate english to turkish	My father wants to make me a lawyer.	Babam beni bir avukat yapmak istiyor.
+204	translate turkish to english	KÃ¶tÃ¼ bir sonuÃ§ deÄŸildi.	It wasn't a bad outcome.
+205	translate english to turkish	It wasn't a bad outcome.	KÃ¶tÃ¼ bir sonuÃ§ deÄŸildi.
+206	translate turkish to english	Tom bana Boston'a hiÃ§ gitmediÄŸini sÃ¶yledi.	Tom told me he'd never been to Boston.
+207	translate english to turkish	Tom told me he'd never been to Boston.	Tom bana Boston'a hiÃ§ gitmediÄŸini sÃ¶yledi.
+208	translate turkish to english	Benim eski arabam bana 100 dolar getirdi.	My old car brought me $100.
+209	translate english to turkish	My old car brought me $100.	Benim eski arabam bana 100 dolar getirdi.
+210	translate turkish to english	Nick'in ofisime gelmesine gerek yok.	Nick doesn't need to come to my office.
+211	translate english to turkish	Nick doesn't need to come to my office.	Nick'in ofisime gelmesine gerek yok.
+212	translate turkish to english	Ã‡abuk korkarÄ±m.	I'm scared fast.
+213	translate english to turkish	I'm scared fast.	Ã‡abuk korkarÄ±m.
+214	translate turkish to english	Seni eve gÃ¶tÃ¼rmemizi ister misin?	Do you want us to take you home?
+215	translate english to turkish	Do you want us to take you home?	Seni eve gÃ¶tÃ¼rmemizi ister misin?
+216	translate turkish to english	Mary'nin her ÅŸeyde bir gÃ¶rÃ¼ÅŸÃ¼ vardÄ±r.	Mary has an opinion on everything.
+217	translate english to turkish	Mary has an opinion on everything.	Mary'nin her ÅŸeyde bir gÃ¶rÃ¼ÅŸÃ¼ vardÄ±r.
+218	translate turkish to english	Tom'un meÅŸgul olacaÄŸÄ±nÄ± biliyordum.	I knew Tom would be busy.
+219	translate english to turkish	I knew Tom would be busy.	Tom'un meÅŸgul olacaÄŸÄ±nÄ± biliyordum.
+220	translate turkish to english	KeÅŸke tÃ¼m krediyi alabilseydik.	I wish we could get all the credit.
+221	translate english to turkish	I wish we could get all the credit.	KeÅŸke tÃ¼m krediyi alabilseydik.
+222	translate turkish to english	Ben hiÃ§ senin evine gitmedim.	I've never been to your house.
+223	translate english to turkish	I've never been to your house.	Ben hiÃ§ senin evine gitmedim.
+224	translate turkish to english	Ä°nsanlarÄ±n bÃ¼yÃ¼k bir Ã§oÄŸunluÄŸu planÄ± kabul etti.	Most of the people agreed to the plan.
+225	translate english to turkish	Most of the people agreed to the plan.	Ä°nsanlarÄ±n bÃ¼yÃ¼k bir Ã§oÄŸunluÄŸu planÄ± kabul etti.
+226	translate turkish to english	Tom daha bÃ¼yÃ¼k bir indirim istiyor.	Tom wants a bigger discount.
+227	translate english to turkish	Tom wants a bigger discount.	Tom daha bÃ¼yÃ¼k bir indirim istiyor.
+228	translate turkish to english	Unutursam, lÃ¼tfen bana hatÄ±rlat.	If I forget, please remind me.
+229	translate english to turkish	If I forget, please remind me.	Unutursam, lÃ¼tfen bana hatÄ±rlat.
+230	translate turkish to english	Åžef beni Ã¶ldÃ¼recek.	The chief's gonna kill me.
+231	translate english to turkish	The chief's gonna kill me.	Åžef beni Ã¶ldÃ¼recek.
+232	translate turkish to english	1914'te olduÄŸu gibi 1939'da dÃ¼nya bir savaÅŸÄ±n eÅŸiÄŸindeydi.	As in 1914, the world was on the brink of war in 1939.
+233	translate english to turkish	As in 1914, the world was on the brink of war in 1939.	1914'te olduÄŸu gibi 1939'da dÃ¼nya bir savaÅŸÄ±n eÅŸiÄŸindeydi.
+234	translate turkish to english	Size Mayuko'yu tanÄ±tmama izin verin.	Allow me to introduce Mayuko.
+235	translate english to turkish	Allow me to introduce Mayuko.	Size Mayuko'yu tanÄ±tmama izin verin.
+236	translate turkish to english	Sami onu gÃ¶stermeyecek.	Sami won't show it.
+237	translate english to turkish	Sami won't show it.	Sami onu gÃ¶stermeyecek.
+238	translate turkish to english	Tom boylu boslu bir adam.	Tom is a tall man.
+239	translate english to turkish	Tom is a tall man.	Tom boylu boslu bir adam.
+240	translate turkish to english	Tom, Mary'nin muhtemelen aÄŸlamayacaÄŸÄ±nÄ± sÃ¶yledi.	Tom said Mary wouldn't likely cry.
+241	translate english to turkish	Tom said Mary wouldn't likely cry.	Tom, Mary'nin muhtemelen aÄŸlamayacaÄŸÄ±nÄ± sÃ¶yledi.
+242	translate turkish to english	Bu sana diÄŸer insanlarÄ± rahatsÄ±z etmemeyi Ã¶ÄŸretecek.	That'll teach you not to bother other people.
+243	translate english to turkish	That'll teach you not to bother other people.	Bu sana diÄŸer insanlarÄ± rahatsÄ±z etmemeyi Ã¶ÄŸretecek.
+244	translate turkish to english	NiÃ§in sadece Tom'a kendin sormuyorsun?	Why don't you just ask Tom yourself?
+245	translate english to turkish	Why don't you just ask Tom yourself?	NiÃ§in sadece Tom'a kendin sormuyorsun?
+246	translate turkish to english	Tom bundan Ã§ok etkilenecek.	Tom is going to be very impressed by this.
+247	translate english to turkish	Tom is going to be very impressed by this.	Tom bundan Ã§ok etkilenecek.
+248	translate turkish to english	Tom eve yÃ¼rÃ¼memizi Ã¶nerdi.	Tom suggested we walk home.
+249	translate english to turkish	Tom suggested we walk home.	Tom eve yÃ¼rÃ¼memizi Ã¶nerdi.
+250	translate turkish to english	Bir ÅŸeyi bir yerden Ã§Ä±karabileceÄŸimizi umuyorum.	I'm hoping we can pull something off somewhere.
+251	translate english to turkish	I'm hoping we can pull something off somewhere.	Bir ÅŸeyi bir yerden Ã§Ä±karabileceÄŸimizi umuyorum.
+252	translate turkish to english	Bir kitap gÃ¶rÃ¼yor musun?	Do you see a book?
+253	translate english to turkish	Do you see a book?	Bir kitap gÃ¶rÃ¼yor musun?
+254	translate turkish to english	GeÃ§en ay birkaÃ§ gÃ¼n Boston'daydÄ±m.	I was in Boston a few days last month.
+255	translate english to turkish	I was in Boston a few days last month.	GeÃ§en ay birkaÃ§ gÃ¼n Boston'daydÄ±m.
+256	translate turkish to english	Harika olup olmamam umurumda deÄŸil.	I don't care if I'm great or not.
+257	translate english to turkish	I don't care if I'm great or not.	Harika olup olmamam umurumda deÄŸil.
+258	translate turkish to english	ÅžiÅŸeler tÄ±palanmÄ±ÅŸtÄ±.	The bottles were corked.
+259	translate english to turkish	The bottles were corked.	ÅžiÅŸeler tÄ±palanmÄ±ÅŸtÄ±.
+260	translate turkish to english	Åžimdi bankaya gitmem gerek.	I have to go to the bank now.
+261	translate english to turkish	I have to go to the bank now.	Åžimdi bankaya gitmem gerek.
+262	translate turkish to english	Tom, Mary'ye bunu yapmasÄ±nÄ± sÃ¶ylemeyi reddetti.	Tom refused to tell Mary to do that.
+263	translate english to turkish	Tom refused to tell Mary to do that.	Tom, Mary'ye bunu yapmasÄ±nÄ± sÃ¶ylemeyi reddetti.
+264	translate turkish to english	AÄŸÄ±r bagajÄ± havaalanÄ±na Ã§ektim.	I pulled the heavy trunk into the airport.
+265	translate english to turkish	I pulled the heavy trunk into the airport.	AÄŸÄ±r bagajÄ± havaalanÄ±na Ã§ektim.
+266	translate turkish to english	BahÃ§eyi suluyorlar.	They're watering the garden.
+267	translate english to turkish	They're watering the garden.	BahÃ§eyi suluyorlar.
+268	translate turkish to english	Bebek hÃ¢lÃ¢ uyuyor.	The baby's still asleep.
+269	translate english to turkish	The baby's still asleep.	Bebek hÃ¢lÃ¢ uyuyor.
+270	translate turkish to english	Tom Ã¼st ranzada uyudu.	Tom slept in the top bunk.
+271	translate english to turkish	Tom slept in the top bunk.	Tom Ã¼st ranzada uyudu.
+272	translate turkish to english	Her zaman tekrar gel.	Always come back.
+273	translate english to turkish	Always come back.	Her zaman tekrar gel.
+274	translate turkish to english	Sami imamla konuÅŸmak istiyordu.	Sami wanted to talk to the imam.
+275	translate english to turkish	Sami wanted to talk to the imam.	Sami imamla konuÅŸmak istiyordu.
+276	translate turkish to english	Neredeyse kahvemi dÃ¶kÃ¼yordum.	I almost spilled my coffee.
+277	translate english to turkish	I almost spilled my coffee.	Neredeyse kahvemi dÃ¶kÃ¼yordum.
+278	translate turkish to english	Senin Ã¶yle diyebileceÄŸini hiÃ§ dÃ¼ÅŸÃ¼nmedim.	I never thought you'd say that.
+279	translate english to turkish	I never thought you'd say that.	Senin Ã¶yle diyebileceÄŸini hiÃ§ dÃ¼ÅŸÃ¼nmedim.
+280	translate turkish to english	Tom bunu bize nasÄ±l yapabildi?	How could Tom do that to us?
+281	translate english to turkish	How could Tom do that to us?	Tom bunu bize nasÄ±l yapabildi?
+282	translate turkish to english	Tom'a hÃ¢lÃ¢ bir toplantÄ±da olduÄŸumu sÃ¶yle.	Tell Tom I'm still in a meeting.
+283	translate english to turkish	Tell Tom I'm still in a meeting.	Tom'a hÃ¢lÃ¢ bir toplantÄ±da olduÄŸumu sÃ¶yle.
+284	translate turkish to english	EÄŸer bir tiÅŸÃ¶rt giyersen bir genÃ§ gÃ¶zÃ¼yle bakÄ±lÄ±rsÄ±n.	If you wear a T-shirt, you'll be considered a teenager.
+285	translate english to turkish	If you wear a T-shirt, you'll be considered a teenager.	EÄŸer bir tiÅŸÃ¶rt giyersen bir genÃ§ gÃ¶zÃ¼yle bakÄ±lÄ±rsÄ±n.
+286	translate turkish to english	Tom beÅŸ parasÄ±z.	Tom is broke.
+287	translate english to turkish	Tom is broke.	Tom beÅŸ parasÄ±z.
+288	translate turkish to english	YaÅŸayan en uzun adam Carl'dÄ±r.	Carl is the tallest man alive.
+289	translate english to turkish	Carl is the tallest man alive.	YaÅŸayan en uzun adam Carl'dÄ±r.
+290	translate turkish to english	Tom hiÃ§ iÅŸi hakkÄ±nda konuÅŸur mu?	Does Tom ever talk about his job?
+291	translate english to turkish	Does Tom ever talk about his job?	Tom hiÃ§ iÅŸi hakkÄ±nda konuÅŸur mu?
+292	translate turkish to english	Soruyu cevaplamak kolaydÄ±r.	It's easy to answer the question.
+293	translate english to turkish	It's easy to answer the question.	Soruyu cevaplamak kolaydÄ±r.
+294	translate turkish to english	NiÃ§in o beyaz ÅŸaraptan biraz denemiyorsunuz?	Why don't you try some of that white wine?
+295	translate english to turkish	Why don't you try some of that white wine?	NiÃ§in o beyaz ÅŸaraptan biraz denemiyorsunuz?
+296	translate turkish to english	KorkunÃ§ bir ÅŸey.	It's horrible.
+297	translate english to turkish	It's horrible.	KorkunÃ§ bir ÅŸey.
+298	translate turkish to english	Tom Mary'nin ne yaptÄ±ÄŸÄ±nÄ±n farkÄ±nda deÄŸildi.	Tom wasn't aware of what Mary was doing.
+299	translate english to turkish	Tom wasn't aware of what Mary was doing.	Tom Mary'nin ne yaptÄ±ÄŸÄ±nÄ±n farkÄ±nda deÄŸildi.
+300	translate turkish to english	Ä°ÅŸte Ã¶ÄŸrenmek istediÄŸim diller, kabaca kronolojik sÄ±ra.	Here are the languages I want to learn, roughly the chronological order.
+301	translate english to turkish	Here are the languages I want to learn, roughly the chronological order.	Ä°ÅŸte Ã¶ÄŸrenmek istediÄŸim diller, kabaca kronolojik sÄ±ra.
+302	translate turkish to english	Tom'un bunu yapacaÄŸÄ±nÄ± sanmÄ±yorum.	I don't think Tom will do that.
+303	translate english to turkish	I don't think Tom will do that.	Tom'un bunu yapacaÄŸÄ±nÄ± sanmÄ±yorum.
+304	translate turkish to english	O iÃ§eriye girer girmez dÃ¼ÅŸtÃ¼.	He fell as soon as he walked in.
+305	translate english to turkish	He fell as soon as he walked in.	O iÃ§eriye girer girmez dÃ¼ÅŸtÃ¼.
+306	translate turkish to english	Sen gerÃ§ekten bencilsin, deÄŸil mi?	You're really selfish, aren't you?
+307	translate english to turkish	You're really selfish, aren't you?	Sen gerÃ§ekten bencilsin, deÄŸil mi?
+308	translate turkish to english	Ben gerÃ§ekten yaÄŸmurda eve yÃ¼rÃ¼mek istemiyorum.	I really don't want to walk home in the rain.
+309	translate english to turkish	I really don't want to walk home in the rain.	Ben gerÃ§ekten yaÄŸmurda eve yÃ¼rÃ¼mek istemiyorum.
+310	translate turkish to english	Bunu nasÄ±l yapacaÄŸÄ±mÄ± bana gÃ¶stereceÄŸini biliyordum.	I knew you'd show me how to do that.
+311	translate english to turkish	I knew you'd show me how to do that.	Bunu nasÄ±l yapacaÄŸÄ±mÄ± bana gÃ¶stereceÄŸini biliyordum.
+312	translate turkish to english	CÃ¼mlenin bir yÃ¼klemi olmasÄ± gerekir.	The sentence has to have a charge.
+313	translate english to turkish	The sentence has to have a charge.	CÃ¼mlenin bir yÃ¼klemi olmasÄ± gerekir.
+314	translate turkish to english	Tom hakkÄ±nda onu bilmiyordum.	I didn't know that about Tom.
+315	translate english to turkish	I didn't know that about Tom.	Tom hakkÄ±nda onu bilmiyordum.
+316	translate turkish to english	Ben sana ÅŸehri gÃ¶stereceÄŸim.	I'll show you the city.
+317	translate english to turkish	I'll show you the city.	Ben sana ÅŸehri gÃ¶stereceÄŸim.
+318	translate turkish to english	Tom ve Mary geri geliyorlar.	Tom and Mary are coming back.
+319	translate english to turkish	Tom and Mary are coming back.	Tom ve Mary geri geliyorlar.
+320	translate turkish to english	Gelecek ay burada yaÅŸayacaÄŸÄ±z.	We'll live here next month.
+321	translate english to turkish	We'll live here next month.	Gelecek ay burada yaÅŸayacaÄŸÄ±z.
+322	translate turkish to english	Biz gerÃ§ekten Ã§ok iyi vakit geÃ§irdik.	We had a really good time.
+323	translate english to turkish	We had a really good time.	Biz gerÃ§ekten Ã§ok iyi vakit geÃ§irdik.
+324	translate turkish to english	Tom herkes tarafÄ±ndan sevilir.	Tom is loved by everyone.
+325	translate english to turkish	Tom is loved by everyone.	Tom herkes tarafÄ±ndan sevilir.
+326	translate turkish to english	Tom asistanÄ±m deÄŸildi.	Tom wasn't my assistant.
+327	translate english to turkish	Tom wasn't my assistant.	Tom asistanÄ±m deÄŸildi.
+328	translate turkish to english	Tom'un yazdÄ±ÄŸÄ± kitap asla yayÄ±nlanmadÄ±.	The book Tom wrote was never published.
+329	translate english to turkish	The book Tom wrote was never published.	Tom'un yazdÄ±ÄŸÄ± kitap asla yayÄ±nlanmadÄ±.
+330	translate turkish to english	Onu istediÄŸin ÅŸekilde yapabilirsin.	You can do it any way you want.
+331	translate english to turkish	You can do it any way you want.	Onu istediÄŸin ÅŸekilde yapabilirsin.
+332	translate turkish to english	GerÃ§ekten mojo'muzu geri aldÄ±k.	We really got our mojo back.
+333	translate english to turkish	We really got our mojo back.	GerÃ§ekten mojo'muzu geri aldÄ±k.
+334	translate turkish to english	Bundan daha fazlasÄ±nÄ± yapamam.	I can't do any more than that.
+335	translate english to turkish	I can't do any more than that.	Bundan daha fazlasÄ±nÄ± yapamam.
+336	translate turkish to english	Bu fena halde adil deÄŸil.	That's not very fair.
+337	translate english to turkish	That's not very fair.	Bu fena halde adil deÄŸil.
+338	translate turkish to english	Tom zorda olduÄŸunun farkÄ±na vardÄ±.	Tom realized that he was in trouble.
+339	translate english to turkish	Tom realized that he was in trouble.	Tom zorda olduÄŸunun farkÄ±na vardÄ±.
+340	translate turkish to english	Biletlerin her biri yirmi yen.	The tickets are twenty yen each.
+341	translate english to turkish	The tickets are twenty yen each.	Biletlerin her biri yirmi yen.
+342	translate turkish to english	Pazartesi istifa ediyorum.	I quit on Monday.
+343	translate english to turkish	I quit on Monday.	Pazartesi istifa ediyorum.
+344	translate turkish to english	Sam bir filozoftur, deÄŸil mi?	Sam's a philosopher, isn't he?
+345	translate english to turkish	Sam's a philosopher, isn't he?	Sam bir filozoftur, deÄŸil mi?
+346	translate turkish to english	Bu yararlÄ± olacak.	This will be useful.
+347	translate english to turkish	This will be useful.	Bu yararlÄ± olacak.
+348	translate turkish to english	Tom her zaman kaygÄ±lÄ±.	Tom is always anxious.
+349	translate english to turkish	Tom is always anxious.	Tom her zaman kaygÄ±lÄ±.
+350	translate turkish to english	EÄŸer yardÄ±mÄ±ma ihtiyacÄ±n olursa sadece bana bildir.	If you need my help, just let me know.
+351	translate english to turkish	If you need my help, just let me know.	EÄŸer yardÄ±mÄ±ma ihtiyacÄ±n olursa sadece bana bildir.
+352	translate turkish to english	Ve baÅŸka kim?	And who else?
+353	translate english to turkish	And who else?	Ve baÅŸka kim?
+354	translate turkish to english	Birisinin kapÄ±yÄ± Ã§aldÄ±ÄŸÄ±nÄ± duydum.	I heard someone knocking on the door.
+355	translate english to turkish	I heard someone knocking on the door.	Birisinin kapÄ±yÄ± Ã§aldÄ±ÄŸÄ±nÄ± duydum.
+356	translate turkish to english	Bunun iÃ§in kovulabilirim.	I could get fired for this.
+357	translate english to turkish	I could get fired for this.	Bunun iÃ§in kovulabilirim.
+358	translate turkish to english	YakÄ±nda dÃ¶neceÄŸiz.	We'll be back soon.
+359	translate english to turkish	We'll be back soon.	YakÄ±nda dÃ¶neceÄŸiz.
+360	translate turkish to english	Tom neredeyse FransÄ±zcayÄ± Mary kadar iyi konuÅŸabilir.	Tom can almost speak French as well as Mary.
+361	translate english to turkish	Tom can almost speak French as well as Mary.	Tom neredeyse FransÄ±zcayÄ± Mary kadar iyi konuÅŸabilir.
+362	translate turkish to english	Tom bana bu yÃ¼zÃ¼ÄŸÃ¼ verdi.	Tom gave me this ring.
+363	translate english to turkish	Tom gave me this ring.	Tom bana bu yÃ¼zÃ¼ÄŸÃ¼ verdi.
+364	translate turkish to english	Yapmam gereken baÅŸka bir ÅŸey var.	There's something else I need to do.
+365	translate english to turkish	There's something else I need to do.	Yapmam gereken baÅŸka bir ÅŸey var.
+366	translate turkish to english	Tom biraz deli.	Tom is a little crazy.
+367	translate english to turkish	Tom is a little crazy.	Tom biraz deli.
+368	translate turkish to english	Dinamit taÅŸÄ±ma tehlikeli olabilir.	Carrying dynamite can be dangerous.
+369	translate english to turkish	Carrying dynamite can be dangerous.	Dinamit taÅŸÄ±ma tehlikeli olabilir.
+370	translate turkish to english	Onun geldiÄŸini gÃ¶rmedim.	I didn't see him coming.
+371	translate english to turkish	I didn't see him coming.	Onun geldiÄŸini gÃ¶rmedim.
+372	translate turkish to english	Tom Mary'nin bunu bugÃ¼n yapmak zorunda olduÄŸunu sÃ¶yledi.	Tom said Mary had to do that today.
+373	translate english to turkish	Tom said Mary had to do that today.	Tom Mary'nin bunu bugÃ¼n yapmak zorunda olduÄŸunu sÃ¶yledi.
+374	translate turkish to english	Bir mali sÄ±kma politikasÄ± yÃ¼rÃ¼rlÃ¼ÄŸe giriyor.	A financial tightening policy is in effect.
+375	translate english to turkish	A financial tightening policy is in effect.	Bir mali sÄ±kma politikasÄ± yÃ¼rÃ¼rlÃ¼ÄŸe giriyor.
+376	translate turkish to english	OÄŸlan oyuncak askerleri ile oynuyor.	The boy's playing with his toy soldiers.
+377	translate english to turkish	The boy's playing with his toy soldiers.	OÄŸlan oyuncak askerleri ile oynuyor.
+378	translate turkish to english	Tom'u incitmene izin vermeyeceÄŸim.	I won't let you hurt Tom.
+379	translate english to turkish	I won't let you hurt Tom.	Tom'u incitmene izin vermeyeceÄŸim.
+380	translate turkish to english	Tom yarÄ±ndan sonraki gÃ¼n ayrÄ±lacak.	Tom is going to leave the day after tomorrow.
+381	translate english to turkish	Tom is going to leave the day after tomorrow.	Tom yarÄ±ndan sonraki gÃ¼n ayrÄ±lacak.
+382	translate turkish to english	Bu caminin altÄ± minaresi ve kat kat kubbeleri var.	This mosque has six minarets and layers of domes.
+383	translate english to turkish	This mosque has six minarets and layers of domes.	Bu caminin altÄ± minaresi ve kat kat kubbeleri var.
+384	translate turkish to english	Onunla konuÅŸmak iÃ§in bekliyoruz.	We're waiting to talk to him.
+385	translate english to turkish	We're waiting to talk to him.	Onunla konuÅŸmak iÃ§in bekliyoruz.
+386	translate turkish to english	Bizim favori restoranda bir rezervasyon yaptÄ±rdÄ±m.	I made a reservation at our favorite restaurant.
+387	translate english to turkish	I made a reservation at our favorite restaurant.	Bizim favori restoranda bir rezervasyon yaptÄ±rdÄ±m.
+388	translate turkish to english	Jane ve ben iyi piyano Ã§alarÄ±z.	Jane and I play the piano well.
+389	translate english to turkish	Jane and I play the piano well.	Jane ve ben iyi piyano Ã§alarÄ±z.
+390	translate turkish to english	Tekrar Ã§ok geÃ§ kalacaÄŸÄ±z.	We'll be too late again.
+391	translate english to turkish	We'll be too late again.	Tekrar Ã§ok geÃ§ kalacaÄŸÄ±z.
+392	translate turkish to english	Ondan piÅŸman olacaksÄ±n.	You'll regret it.
+393	translate english to turkish	You'll regret it.	Ondan piÅŸman olacaksÄ±n.
+394	translate turkish to english	Polisler hiÃ§ kimsenin izini bulamadÄ±.	The cops haven't been able to track anyone down.
+395	translate english to turkish	The cops haven't been able to track anyone down.	Polisler hiÃ§ kimsenin izini bulamadÄ±.
+396	translate turkish to english	Tom arabada.	Tom is in the car.
+397	translate english to turkish	Tom is in the car.	Tom arabada.
+398	translate turkish to english	Tom Mary iÃ§in bir ÅŸey alacaÄŸÄ±nÄ± sÃ¶yledi.	Tom said he'd buy something for Mary.
+399	translate english to turkish	Tom said he'd buy something for Mary.	Tom Mary iÃ§in bir ÅŸey alacaÄŸÄ±nÄ± sÃ¶yledi.
+400	translate turkish to english	Buradaki herhangi biri Tom'un nerede yaÅŸadÄ±ÄŸÄ±nÄ± biliyor mu?	Does anyone here know where Tom lives?
+401	translate english to turkish	Does anyone here know where Tom lives?	Buradaki herhangi biri Tom'un nerede yaÅŸadÄ±ÄŸÄ±nÄ± biliyor mu?
+402	translate turkish to english	Onu kÄ±zdÄ±ran hiÃ§bir ÅŸey sÃ¶ylemedim.	I didn't say anything that made him angry.
+403	translate english to turkish	I didn't say anything that made him angry.	Onu kÄ±zdÄ±ran hiÃ§bir ÅŸey sÃ¶ylemedim.
+404	translate turkish to english	Bu aile inanÄ±lmazdÄ±r.	This family is amazing.
+405	translate english to turkish	This family is amazing.	Bu aile inanÄ±lmazdÄ±r.
+406	translate turkish to english	HiÃ§ lÃ¼ks bir araba sahibi olmak istedin mi?	Have you ever wanted to own a luxury car?
+407	translate english to turkish	Have you ever wanted to own a luxury car?	HiÃ§ lÃ¼ks bir araba sahibi olmak istedin mi?
+408	translate turkish to english	Bir analjeziÄŸe ihtiyacÄ±m var.	I need an analgesic.
+409	translate english to turkish	I need an analgesic.	Bir analjeziÄŸe ihtiyacÄ±m var.
+410	translate turkish to english	Ä°nsanlÄ±k nÃ¼kleer enerjiyi barÄ±ÅŸÃ§Ä±l biÃ§imde kullanarak baÅŸarÄ±lÄ± olacaktÄ±r.	Humanity will succeed peacefully using nuclear energy.
+411	translate english to turkish	Humanity will succeed peacefully using nuclear energy.	Ä°nsanlÄ±k nÃ¼kleer enerjiyi barÄ±ÅŸÃ§Ä±l biÃ§imde kullanarak baÅŸarÄ±lÄ± olacaktÄ±r.
+412	translate turkish to english	Birlikte bÃ¼yÃ¼dÃ¼ÄŸÃ¼m arkadaÅŸlardan Ã¼Ã§te biri Ã¶ldÃ¼.	A third of the friends I grew up with died.
+413	translate english to turkish	A third of the friends I grew up with died.	Birlikte bÃ¼yÃ¼dÃ¼ÄŸÃ¼m arkadaÅŸlardan Ã¼Ã§te biri Ã¶ldÃ¼.
+414	translate turkish to english	Tom'a sÃ¶ylemeliyim.	I should tell Tom.
+415	translate english to turkish	I should tell Tom.	Tom'a sÃ¶ylemeliyim.
+416	translate turkish to english	Video oyunlarÄ±nÄ± seviyorum.	I love video games.
+417	translate english to turkish	I love video games.	Video oyunlarÄ±nÄ± seviyorum.
+418	translate turkish to english	Tom'un bu karmaÅŸa ile bir ilgisi yoktu.	Tom had nothing to do with this mess.
+419	translate english to turkish	Tom had nothing to do with this mess.	Tom'un bu karmaÅŸa ile bir ilgisi yoktu.
+420	translate turkish to english	Sana bundan bahsedemem.	I can't tell you about this.
+421	translate english to turkish	I can't tell you about this.	Sana bundan bahsedemem.
+422	translate turkish to english	O, Mary'den daha uzun.	He's taller than Mary.
+423	translate english to turkish	He's taller than Mary.	O, Mary'den daha uzun.
+424	translate turkish to english	Biz onu geÃ§eceÄŸiz.	We'll get past it.
+425	translate english to turkish	We'll get past it.	Biz onu geÃ§eceÄŸiz.
+426	translate turkish to english	SanÄ±rÄ±m onlar gerÃ§ekten aÃ§ deÄŸildi.	I guess they weren't really hungry.
+427	translate english to turkish	I guess they weren't really hungry.	SanÄ±rÄ±m onlar gerÃ§ekten aÃ§ deÄŸildi.
+428	translate turkish to english	Tom ilk ne yapardÄ±?	What would Tom do first?
+429	translate english to turkish	What would Tom do first?	Tom ilk ne yapardÄ±?
+430	translate turkish to english	Bir dakika iÃ§inde dÃ¶neceÄŸim.	I'll be back in a minute.
+431	translate english to turkish	I'll be back in a minute.	Bir dakika iÃ§inde dÃ¶neceÄŸim.
+432	translate turkish to english	YapabileceÄŸim ÅŸey neyse yapacaÄŸÄ±m.	I'll do what I can.
+433	translate english to turkish	I'll do what I can.	YapabileceÄŸim ÅŸey neyse yapacaÄŸÄ±m.
+434	translate turkish to english	Rakunlar duygusal hale geldi.	The raccoons have become emotional.
+435	translate english to turkish	The raccoons have become emotional.	Rakunlar duygusal hale geldi.
+436	translate turkish to english	Burada kaÃ§ kiÅŸi tanÄ±yorsun?	How many people do you know here?
+437	translate english to turkish	How many people do you know here?	Burada kaÃ§ kiÅŸi tanÄ±yorsun?
+438	translate turkish to english	Bu gerÃ§ekten zordu.	That was really hard.
+439	translate english to turkish	That was really hard.	Bu gerÃ§ekten zordu.
+440	translate turkish to english	Kurtarabileceklerimizi kurtaralÄ±m.	Let's save what we can.
+441	translate english to turkish	Let's save what we can.	Kurtarabileceklerimizi kurtaralÄ±m.
+442	translate turkish to english	Tom huysuzdu ama Mary deÄŸildi.	Tom was grumpy, but Mary wasn't.
+443	translate english to turkish	Tom was grumpy, but Mary wasn't.	Tom huysuzdu ama Mary deÄŸildi.
+444	translate turkish to english	ÃœtÃ¼ Ä±sÄ±nÄ±rken Mary buhar yapmak iÃ§in hazneye damÄ±tÄ±lmÄ±ÅŸ su dÃ¶ktÃ¼.	As the iron warmed, Mary poured distilled water into the chamber to make steam.
+445	translate english to turkish	As the iron warmed, Mary poured distilled water into the chamber to make steam.	ÃœtÃ¼ Ä±sÄ±nÄ±rken Mary buhar yapmak iÃ§in hazneye damÄ±tÄ±lmÄ±ÅŸ su dÃ¶ktÃ¼.
+446	translate turkish to english	Dan eldiven giymeyi unuttu.	Dan forgot to wear gloves.
+447	translate english to turkish	Dan forgot to wear gloves.	Dan eldiven giymeyi unuttu.
+448	translate turkish to english	SomurtmayÄ± kes.	Stop sulking.
+449	translate english to turkish	Stop sulking.	SomurtmayÄ± kes.
+450	translate turkish to english	Tom kalbinizi kÄ±rdÄ± mÄ±?	Did Tom break your heart?
+451	translate english to turkish	Did Tom break your heart?	Tom kalbinizi kÄ±rdÄ± mÄ±?
+452	translate turkish to english	AteÅŸkes gÃ¶rÃ¼ÅŸmeleri Temmuz 1951 de baÅŸladÄ±.	The ceasefire talks began in July 1951.
+453	translate english to turkish	The ceasefire talks began in July 1951.	AteÅŸkes gÃ¶rÃ¼ÅŸmeleri Temmuz 1951 de baÅŸladÄ±.
+454	translate turkish to english	Parkta bÃ¼yÃ¼k bir kalabalÄ±k vardÄ±.	There was a big crowd in the park.
+455	translate english to turkish	There was a big crowd in the park.	Parkta bÃ¼yÃ¼k bir kalabalÄ±k vardÄ±.
+456	translate turkish to english	Tom iÅŸten bir arkadaÅŸÄ±m.	Tom is a friend from work.
+457	translate english to turkish	Tom is a friend from work.	Tom iÅŸten bir arkadaÅŸÄ±m.
+458	translate turkish to english	Bunlar Ã§ocuklarda yaygÄ±n olan hastalÄ±klardÄ±r.	These are common diseases in children.
+459	translate english to turkish	These are common diseases in children.	Bunlar Ã§ocuklarda yaygÄ±n olan hastalÄ±klardÄ±r.
+460	translate turkish to english	BazÄ± sorunlarla ya da bir ÅŸeyle karÅŸÄ±laÅŸtÄ±n mÄ±?	Did you run into any problems or anything?
+461	translate english to turkish	Did you run into any problems or anything?	BazÄ± sorunlarla ya da bir ÅŸeyle karÅŸÄ±laÅŸtÄ±n mÄ±?
+462	translate turkish to english	Tom devamlÄ± olarak pasta yiyor.	Tom is constantly eating cake.
+463	translate english to turkish	Tom is constantly eating cake.	Tom devamlÄ± olarak pasta yiyor.
+464	translate turkish to english	Ben her zaman mevcut deÄŸilim.	I'm not always present.
+465	translate english to turkish	I'm not always present.	Ben her zaman mevcut deÄŸilim.
+466	translate turkish to english	Tom toplantÄ± bitinceye kadar geri aramayacak.	Tom won't call back until the meeting's over.
+467	translate english to turkish	Tom won't call back until the meeting's over.	Tom toplantÄ± bitinceye kadar geri aramayacak.
+468	translate turkish to english	Tom sonunda bunu yapacak.	Tom is going to do that eventually.
+469	translate english to turkish	Tom is going to do that eventually.	Tom sonunda bunu yapacak.
+470	translate turkish to english	Son derece Ã¼zgÃ¼nÃ¼m!	I'm terribly sorry!
+471	translate english to turkish	I'm terribly sorry!	Son derece Ã¼zgÃ¼nÃ¼m!
+472	translate turkish to english	Senin gÃ¶zde etkinliÄŸin nedir?	What's your favorite activity?
+473	translate english to turkish	What's your favorite activity?	Senin gÃ¶zde etkinliÄŸin nedir?
+474	translate turkish to english	Diana yumurtalarÄ± Ã§Ä±rptÄ± ve keki karÄ±ÅŸtÄ±rdÄ±.	Diana scrambled the eggs and mixed the cake.
+475	translate english to turkish	Diana scrambled the eggs and mixed the cake.	Diana yumurtalarÄ± Ã§Ä±rptÄ± ve keki karÄ±ÅŸtÄ±rdÄ±.
+476	translate turkish to english	SevinÃ§ten aÄŸlayabilirdim.	I could cry with joy.
+477	translate english to turkish	I could cry with joy.	SevinÃ§ten aÄŸlayabilirdim.
+478	translate turkish to english	BahÃ§eyi suluyorsun, deÄŸil mi?	You're watering the garden, aren't you?
+479	translate english to turkish	You're watering the garden, aren't you?	BahÃ§eyi suluyorsun, deÄŸil mi?
+480	translate turkish to english	Biz beyzbol oynamak iÃ§in geldik.	We're here to play baseball.
+481	translate english to turkish	We're here to play baseball.	Biz beyzbol oynamak iÃ§in geldik.
+482	translate turkish to english	O onunla ilgileniyor gibi gÃ¶rÃ¼nÃ¼yor.	He seems to be interested in her.
+483	translate english to turkish	He seems to be interested in her.	O onunla ilgileniyor gibi gÃ¶rÃ¼nÃ¼yor.
+484	translate turkish to english	Tom, Mary ve John'un sÃ¶ylediÄŸi bir sÃ¶zcÃ¼ÄŸÃ¼ duyamadÄ±.	Tom couldn't hear a word Mary and John said.
+485	translate english to turkish	Tom couldn't hear a word Mary and John said.	Tom, Mary ve John'un sÃ¶ylediÄŸi bir sÃ¶zcÃ¼ÄŸÃ¼ duyamadÄ±.
+486	translate turkish to english	Tom bunu yapacak bir planÄ±nÄ±n olmadÄ±ÄŸÄ±nÄ± sÃ¶ylÃ¼yor.	Tom says he has no plan to do that.
+487	translate english to turkish	Tom says he has no plan to do that.	Tom bunu yapacak bir planÄ±nÄ±n olmadÄ±ÄŸÄ±nÄ± sÃ¶ylÃ¼yor.
+488	translate turkish to english	Ben de Ã¶nceden Tom'u severdim.	I used to like Tom, too.
+489	translate english to turkish	I used to like Tom, too.	Ben de Ã¶nceden Tom'u severdim.
+490	translate turkish to english	Ä°kinci bir ihtimal yoktur.	There are no second chances.
+491	translate english to turkish	There are no second chances.	Ä°kinci bir ihtimal yoktur.
+492	translate turkish to english	Seni Ã§ok fazla Ã¶zledim.	I missed you so much.
+493	translate english to turkish	I missed you so much.	Seni Ã§ok fazla Ã¶zledim.
+494	translate turkish to english	Ben ÅŸiÅŸman deÄŸilim.	I'm not fat.
+495	translate english to turkish	I'm not fat.	Ben ÅŸiÅŸman deÄŸilim.
+496	translate turkish to english	Tom odasÄ±na gitti ve yataÄŸÄ±nÄ±n Ã¼stÃ¼ne oturdu.	Tom went into his room and sat on his bed.
+497	translate english to turkish	Tom went into his room and sat on his bed.	Tom odasÄ±na gitti ve yataÄŸÄ±nÄ±n Ã¼stÃ¼ne oturdu.
+498	translate turkish to english	Tom'un iÃ§eriye girmediÄŸini umalÄ±m.	Let's hope Tom doesn't come in.
+499	translate english to turkish	Let's hope Tom doesn't come in.	Tom'un iÃ§eriye girmediÄŸini umalÄ±m.

@@ -1,0 +1,6 @@
+datasets==1.18.2
+transformers==4.16.2
+sentencepiece
+sacrebleu==2.0.0
+torch
+google-cloud-storage
