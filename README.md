@@ -2,41 +2,41 @@
 
 ## 01 Embeddings, tokenization
 
-* Lab 01-1-intro-tokenizers.ipynb
-* Lab 01-2-tokenizers-comparison.ipynb: embeddings and tokenizers like [tiktoken](https://github.com/openai/tiktoken) which is a fast BPE tokeniser for use with OpenAI's models; or [Wordpiece](https://keras.io/api/keras_nlp/tokenizers/word_piece_tokenizer/) which is the tokenizer used to train BERT. 
-* Lab 01-3-load-text.ipynb 
-* Lab 01-4-embeddings.ipynb 
-* Lab 01-5-scann.ipynb 
-* Lab 01-6-word2vec.ipynb
+* Lab 01-1: [Intro tokenizers](01-embeddings-tokenizers/01-1-intro-tokenizers.ipynb)
+* Lab 01-2: [Tolenizer comparison](01-embeddings-tokenizers/01-2-tokenizers-comparison.ipynb): embeddings and tokenizers like [tiktoken](https://github.com/openai/tiktoken) which is a fast BPE tokeniser for use with OpenAI's models; or [Wordpiece](https://keras.io/api/keras_nlp/tokenizers/word_piece_tokenizer/) which is the tokenizer used to train BERT. 
+* Lab 01-3: [Load text with TensorFlow: preprocessing](01-embeddings-tokenizers/01-3-loadtext.ipynb)
+* Lab 01-4: [Embeddings layers](01-embeddings-tokenizers/01-4-embeddings.ipynb)
+* Lab 01-5: [ScaNN](01-embeddings-tokenizers/01-5-scann.ipynb)
+* Lab 01-6: [Word2Vec](01-embeddings-tokenizers/01-6-word2vec-get-dataset.ipynb)
 
 
 ## 02 RNN
 
-* Lab 02-1-activation-functions.ipynb 
-* Lab 02-2-rnn-vanilla.ipynb 
-* Lab 02-3-loadtext-full.ipynb
-* Lab 02-4-tfds-imdb.ipynb 
+* Lab 02-1: [Activation functions](02-rnn-lstm/02-1-activation-functions.ipynb)
+* Lab 02-2: [RNN vanilla and LSTM cells in Keras](02-rnn-lstm/02-2-rnn-vanilla.ipynb)
+* Lab 02-3: [Load Text with TensorFlow - Training](02-rnn-lstm/02-3-loadtext-full.ipynb)
+* Lab 02-4: [Dataset hubs](02-rnn-lstm/02-4-datasets.ipynb)
 
 
 ## 03 Attention mechanisms
 
-* Lab 03-1-loadtext-full-conv1D.ipynb 
-* Lab 03-2-self-attention.ipynb
-* Lab 03-3-ape.ipynb 
-* Lab 03-4-keras-nlp.ipynb
-* Lab 03-5-tiny-transformers-keras-nlp.ipynb 
-* Lab 03-6-huggingface.ipynb
+* Lab 03-1: [Load Text with TensorFlow - Conv1D](03-attention-transformers/03-1-loadtext-full-conv1d.ipynb)
+* Lab 03-2: [Self attention](03-attention-transformers/03-2-self-attention.ipynb)
+* Lab 03-3: [Absolute Positional Encoding](03-attention-transformers/03-3-positional-encodings-ape.ipynb)
+* Lab 03-4: [Keras NLP](03-attention-transformers/03-4-keras-nlp.ipynb))
+* Lab 03-5: [Tiny transformers with Keras NLP](03-attention-transformers/03-5-tiny-transformer-keras-nlp.ipynb)
+* Lab 03-6: [transformers library in Hugging Face](03-attention-transformers/03-6-huggingface.ipynb)
 
 
 ## 04 First-generation LLM models (Pre-Chinchilla). Pre-training
 
-* Lab 04-1-modelhub.ipynb 
-* Lab 04-2-pretraining-bert-hf.ipynb
-* Lab 04-3-pretraining-bert-keras-nlp.ipynb 
-* Lab 04-5-summarization-t5-billsum.ipynb 
-* Lab 04-6-classification-finbert.ipynb
-* Lab 04-7-classification-robertalex.ipynb
-* Lab 04-8-translate-es-de.ipynb
+* Lab 04-1: [Model hubs](04-pretraining-bert/04-1-modelhub.ipynb)
+* Lab 04-2: [BERT pre-training with Hugging Face](04-pretraining-bert/04-2-pretraining-bert-hf.ipynb) 
+* Lab 04-3: [BERT pre-training with Keras NLP](04-pretraining-bert/04-3-pretraining-bert-keras-nlp.ipynb)
+* Lab 04-5: [Fine-tuning T5-small model in Hugging Face with BillSum](04-pretraining-bert/04-5-summarization-t5-billsum.ipynb)
+* Lab 04-6: [Inference with FinBERT](04-pretraining-bert/04-6-classification-finbert.ipynb)
+* Lab 04-7: [Inference with RoBERTalex](04-pretraining-bert/04-7-classification-robertalex.ipynb)
+* Lab 04-8: [Translation from Spanish to German using `pipeline`](04-pretraining-bert/04-8-translate-es-de.ipynb)
 
 Frameworks for pre-training:
 
@@ -61,22 +61,22 @@ The T5X GitHub repo includes [references](https://github.com/google-research/t5x
 
 ## 05 Second-generation LLM models (Post-Chinchilla). Evaluation.
 
-* Lab 05-1-text-bison-gradio: `text-bison@001` lab in Gradio. Refer to this [Medium post](https://medium.com/google-cloud/generative-ai-palm-2-model-deployment-with-cloud-run-54e8a398b24b) for deployment of text generation models in Cloud Run.
+* Lab 05-1: text-bison-gradio: `text-bison@001` lab in Gradio. Refer to this [Medium post](https://medium.com/google-cloud/generative-ai-palm-2-model-deployment-with-cloud-run-54e8a398b24b) for deployment of text generation models in Cloud Run.
 
 <img src="images/text-bison-gradio.png" alt="text-bison LLM demo" width="300"/>
 
-* Lab 05-2-chat-bison-gradio: `chat-bison@001` lab in Gradio.
+* Lab 05-2: chat-bison-gradio: `chat-bison@001` lab in Gradio.
 
 <img src="images/chat-bison-gradio.png" alt="chat-bison LLM demo" width="300"/>
 
-* Lab 05-3-codechat-bison-gradio: `codechat-bison@001` lab in Gradio. Demo script (for Gradio or Generative AI Studio): 1. _"Generate Python code for a TensorFlow model to do classification using the MNIST dataset"_ 2. _"Explain Adam optimizer and also suggest other optimizers"_
+* Lab 05-3: codechat-bison-gradio: `codechat-bison@001` lab in Gradio. Demo script (for Gradio or Generative AI Studio): 1. _"Generate Python code for a TensorFlow model to do classification using the MNIST dataset"_ 2. _"Explain Adam optimizer and also suggest other optimizers"_
 
 <img src="images/codechat-bison-gradio.png" alt="codechat-bison LLM demo" width="300"/>
 
-* Lab 05-5-eval-classfication: LLM evaluation (classification)
-* Lab 05-6-eval-summarization: LLM evaluation (summarization)
-* Lab 05-7-eval-textgeneration: LLM evaluation (text generation)
-* Lab 05-8-eval-qna: LLM evaluation (Q&A)
+* Lab 05-5: LLM evaluation (classification)
+* Lab 05-6: LLM evaluation (summarization)
+* Lab 05-7: LLM evaluation (text generation)
+* Lab 05-8: LLM evaluation (Q&A)
 
 ### GPT-3
 
