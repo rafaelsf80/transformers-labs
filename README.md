@@ -31,8 +31,9 @@
 ## 04 First-generation LLM models (Pre-Chinchilla). Pre-training
 
 * Lab 04-1: [Model hubs](04-pretraining-bert/04-1-modelhub.ipynb)
-* Lab 04-2: [BERT pre-training with Hugging Face](04-pretraining-bert/04-2-pretraining-bert-hf.ipynb) 
-* Lab 04-3: [BERT pre-training with Keras NLP](04-pretraining-bert/04-3-pretraining-bert-keras-nlp.ipynb)
+* Lab 04-2: [BERT pre-training with Keras NLP](04-pretraining-bert/04-2-pretraining-bert-keras-nlp.ipynb) 
+* Lab 04-3: [BERT pre-training with Keras NLP and `keras_nlp.models.BertBackbone` class](04-pretraining-bert/04-3-pretraining-bert-keras-backbone.ipynb)
+* Lab 04-4: [BERT pre-training with Hugging Face transformers](04-pretraining-bert/04-4-pretraining-bert-hf.ipynb)
 * Lab 04-5: [Fine-tuning T5-small model in Hugging Face with BillSum](04-pretraining-bert/04-5-summarization-t5-billsum.ipynb)
 * Lab 04-6: [Inference with FinBERT](04-pretraining-bert/04-6-classification-finbert.ipynb)
 * Lab 04-7: [Inference with RoBERTalex](04-pretraining-bert/04-7-classification-robertalex.ipynb)
@@ -41,7 +42,7 @@
 Frameworks for pre-training:
 
 * **Merlin:** NVIDIA Merlin is an open-source framework for building large-scale deep learning recommender system. Integration with Vertex AI is detailed [here](https://github.com/GoogleCloudPlatform/nvidia-merlin-on-vertex-ai).
-* **T5X:** Framework to build and train LLMs at scale, allowing to use Vertex AI and Cloud TPUs.
+* **T5X:** framework to build and train LLMs at scale, allowing to use Vertex AI and Cloud TPUs.
 The following tasks are supported: train, fine-tune, evaluate and inference (with Vertex AI)
 * **Pax**: Pending
 
@@ -73,10 +74,10 @@ The T5X GitHub repo includes [references](https://github.com/google-research/t5x
 
 <img src="images/codechat-bison-gradio.png" alt="codechat-bison LLM demo" width="300"/>
 
-* Lab 05-5: LLM evaluation (classification)
-* Lab 05-6: LLM evaluation (summarization)
-* Lab 05-7: LLM evaluation (text generation)
-* Lab 05-8: LLM evaluation (Q&A)
+* Lab 05-5: [LLM evaluation (classification)](05-llm/05-5-eval-classification.ipynb)
+* Lab 05-6: [LLM evaluation (summarization)](05-llm/05-6-eval-summarization.ipynb)
+* Lab 05-7: [LLM evaluation (text generation)](05-llm/05-7-eval-textgeneration.ipynb)
+* Lab 05-8: [LLM evaluation (Q&A)](05-llm/05-8-eval-qna.ipynb)
 
 ### GPT-3
 
@@ -86,11 +87,11 @@ In comparison to GPT-3 (175B parameters), Jurassic-1 (178B parameters), Gopher (
 
 Chinchilla outperforms Gopher (280B), GPT-3 (175B), Jurassic-1 (178B), and Megatron-Turing NLG (530B) on a wide array of downstream evaluation tasks. It considerably simplifies downstream utilization because it requires much less computer power for inference and fine-tuning. The article also explains that based on the training of previously employed language models, it has been determined that if one doubles the model size, one must also have twice the number of training tokens. This hypothesis has been used to train Chinchilla AI by DeepMind. Similar to Gopher in terms of cost, Chinchilla AI has 70B parameters and four times as much data.
 
-Chinchilla AI has an average accuracy of 67.5% on the MMLU benchmark, which is 7% higher than Gopher’s performance. Unfortunately, the general public cannot currently use Chinchilla AI, because it is still in the testing phase as of January 12, 2023. Once released, Chinchilla AI will be useful for developing various artificial intelligence tools, such as chatbots, virtual assistants, and predictive models.
+Chinchilla has an average accuracy of 67.5% on the MMLU benchmark, which is 7% higher than Gopher’s performance. Unfortunately, the general public cannot currently use Chinchilla AI, because it is still in the testing phase as of January 12, 2023. Once released, Chinchilla AI will be useful for developing various artificial intelligence tools, such as chatbots, virtual assistants, and predictive models.
 
 ### Sparrow
 
-[Sparrow](https://www.deepmind.com/blog/building-safer-dialogue-agents) by Deep Mind Sparrow uses training and RLHF based tuning
+[Sparrow](https://www.deepmind.com/blog/building-safer-dialogue-agents) by Deep Mind. Sparrow uses training and RLHF based tuning
 
 [Google trends](https://trends.google.com/trends/explore?date=today%203-m&q=OpenAI,chatGPT,lamda,sparrow)
 
