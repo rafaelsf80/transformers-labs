@@ -3,7 +3,7 @@
 ## 01 Embeddings, tokenization
 
 * Lab 01-1: [Intro tokenizers](01-embeddings-tokenizers/01-1-intro-tokenizers.ipynb)
-* Lab 01-2: [Tolenizer comparison](01-embeddings-tokenizers/01-2-tokenizers-comparison.ipynb): embeddings and tokenizers like [tiktoken](https://github.com/openai/tiktoken) which is a fast BPE tokeniser for use with OpenAI's models; or [Wordpiece](https://keras.io/api/keras_nlp/tokenizers/word_piece_tokenizer/) which is the tokenizer used to train BERT. 
+* Lab 01-2: [Tokenizer comparison](01-embeddings-tokenizers/01-2-tokenizers-comparison.ipynb): embeddings and tokenizers like [tiktoken](https://github.com/openai/tiktoken) which is a fast BPE tokeniser for use with OpenAI's models; or [Wordpiece](https://keras.io/api/keras_nlp/tokenizers/word_piece_tokenizer/) which is the tokenizer used to train BERT. 
 * Lab 01-3: [Load text with TensorFlow: preprocessing](01-embeddings-tokenizers/01-3-loadtext.ipynb)
 * Lab 01-4: [Embeddings layers](01-embeddings-tokenizers/01-4-embeddings.ipynb)
 * Lab 01-5: [ScaNN](01-embeddings-tokenizers/01-5-scann.ipynb)
@@ -14,16 +14,16 @@
 
 * Lab 02-1: [Activation functions](02-rnn-lstm/02-1-activation-functions.ipynb)
 * Lab 02-2: [RNN vanilla and LSTM cells in Keras](02-rnn-lstm/02-2-rnn-vanilla.ipynb)
-* Lab 02-3: [Load Text with TensorFlow - Training](02-rnn-lstm/02-3-loadtext-full.ipynb)
+* Lab 02-3: [Load Text with TensorFlow: training](02-rnn-lstm/02-3-loadtext-full.ipynb)
 * Lab 02-4: [Dataset hubs](02-rnn-lstm/02-4-datasets.ipynb)
 
 
 ## 03 Attention mechanisms
 
-* Lab 03-1: [Load Text with TensorFlow - Conv1D](03-attention-transformers/03-1-loadtext-full-conv1d.ipynb)
+* Lab 03-1: [Load Text with TensorFlow: Conv1D layers](03-attention-transformers/03-1-loadtext-full-conv1d.ipynb)
 * Lab 03-2: [Self attention](03-attention-transformers/03-2-self-attention.ipynb)
 * Lab 03-3: [Absolute Positional Encoding](03-attention-transformers/03-3-positional-encodings-ape.ipynb)
-* Lab 03-4: [Keras NLP](03-attention-transformers/03-4-keras-nlp.ipynb))
+* Lab 03-4: [Keras NLP](03-attention-transformers/03-4-keras-nlp.ipynb)
 * Lab 03-5: [Tiny transformers with Keras NLP](03-attention-transformers/03-5-tiny-transformer-keras-nlp.ipynb)
 * Lab 03-6: [transformers library in Hugging Face](03-attention-transformers/03-6-huggingface.ipynb)
 
