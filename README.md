@@ -10,7 +10,7 @@
 * Lab 01-6: [Word2Vec](01-embeddings-tokenizers/01-6-word2vec-get-dataset.ipynb)
 
 
-## 02 RNN
+## 02 Recurrent Neural Networks
 
 * Lab 02-1: [Activation functions](02-rnn-lstm/02-1-activation-functions.ipynb)
 * Lab 02-2: [RNN vanilla and LSTM cells in Keras](02-rnn-lstm/02-2-rnn-vanilla.ipynb)
@@ -25,7 +25,7 @@
 * Lab 03-3: [Absolute Positional Encoding](03-attention-transformers/03-3-positional-encodings-ape.ipynb)
 * Lab 03-4: [Keras NLP](03-attention-transformers/03-4-keras-nlp.ipynb)
 * Lab 03-5: [Tiny transformers with Keras NLP](03-attention-transformers/03-5-tiny-transformer-keras-nlp.ipynb)
-* Lab 03-6: [transformers library in Hugging Face](03-attention-transformers/03-6-huggingface.ipynb)
+* Lab 03-6: [Hugging Face SDK introduction](03-attention-transformers/03-6-huggingface.ipynb)
 
 
 ## 04 First-generation LLM models (Pre-Chinchilla). Pre-training
@@ -35,9 +35,9 @@
 * Lab 04-3: [BERT pre-training with Keras NLP and `keras_nlp.models.BertBackbone` class](04-pretraining-bert/04-3-pretraining-bert-keras-backbone.ipynb)
 * Lab 04-4: [BERT pre-training with Hugging Face transformers](04-pretraining-bert/04-4-pretraining-bert-hf.ipynb)
 * Lab 04-5: [Fine-tuning T5-small model in Hugging Face with BillSum](04-pretraining-bert/04-5-summarization-t5-billsum.ipynb)
-* Lab 04-6: [Inference with FinBERT](04-pretraining-bert/04-6-classification-finbert.ipynb)
+* Lab 04-6: [Inference and finetuning with FinBERT](04-pretraining-bert/04-6-classification-finbert.ipynb)
 * Lab 04-7: [Inference with RoBERTalex](04-pretraining-bert/04-7-classification-robertalex.ipynb)
-* Lab 04-8: [Translation from Spanish to German using `pipeline`](04-pretraining-bert/04-8-translate-es-de.ipynb)
+* Lab 04-8: [Translation from Spanish to German using `transformers.pipeline`](04-pretraining-bert/04-8-translate-es-de.ipynb)
 
 Frameworks for pre-training:
 
