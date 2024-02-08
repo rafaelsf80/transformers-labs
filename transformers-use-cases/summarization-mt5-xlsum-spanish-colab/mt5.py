@@ -33,8 +33,8 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
 input_ids = tokenizer(
-    [WHITESPACE_HANDLER(article_text)],
-    return_tensors="pt",
+    article_text, #[WHITESPACE_HANDLER(article_text)],
+    return_tensors="pt", #mandatory 
     padding="max_length",
     truncation=True,
     max_length=512
