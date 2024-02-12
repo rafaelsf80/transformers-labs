@@ -34,17 +34,17 @@
 * Lab 04-2: [BERT pre-training with Keras NLP](04-pretraining-bert/04-2-pretraining-bert-keras-nlp.ipynb) 
 * Lab 04-3: [BERT pre-training with Keras NLP and `keras_nlp.models.BertBackbone` class](04-pretraining-bert/04-3-pretraining-bert-keras-backbone.ipynb)
 * Lab 04-4: [BERT pre-training with Hugging Face transformers](04-pretraining-bert/04-4-pretraining-bert-hf.ipynb)
-* Lab 04-5: [Fine-tuning T5-small model in Hugging Face with BillSum](04-pretraining-bert/04-5-summarization-t5-billsum.ipynb)
-* Lab 04-6: [Inference and finetuning with FinBERT](04-pretraining-bert/04-6-classification-finbert.ipynb)
-* Lab 04-7: [Inference with RoBERTalex](04-pretraining-bert/04-7-classification-robertalex.ipynb)
-* Lab 04-8: [Translation from Spanish to German using `transformers.pipeline`](04-pretraining-bert/04-8-translate-es-de.ipynb)
+* Lab 04-5: [Inference mT5. Summarization](04-pretraining-bert/04-5-summarization-mt5.ipynb)
+* Lab 04-6: [Inference and finetuning FinBERT. Classification](04-pretraining-bert/04-6-classification-finbert.ipynb)
+* Lab 04-7: [Inference RoBERTalex. Classification](04-pretraining-bert/04-7-classification-robertalex.ipynb)
+* Lab 04-8: [Inference and finetuning BERT. Translation from Spanish to German using `transformers.pipeline`](04-pretraining-bert/04-8-translate-es-de.ipynb)
 
 Frameworks for pre-training:
 
 * **Merlin:** NVIDIA Merlin is an open-source framework for building large-scale deep learning recommender system. Integration with Vertex AI is detailed [here](https://github.com/GoogleCloudPlatform/nvidia-merlin-on-vertex-ai).
 * **T5X:** framework to build and train LLMs at scale, allowing to use Vertex AI and Cloud TPUs.
 The following tasks are supported: train, fine-tune, evaluate and inference (with Vertex AI)
-* **Pax**: Pending
+* **Pax**: [Pax](https://github.com/google/paxml) is a framework to configure and run machine learning experiments on top of Jax, with TPu support.
 
 **Dockerfile for T5**: Rebuild docker image every time you make any modifications on custom tasks, under `tasks/` directory. Dockerfile builds a docker with T5X, JAX with TPU support, [flaxformer](https://github.com/google/flaxformer) (a transformer library for NLP and multimodal research) and local `tasks/` directory:
 
@@ -74,6 +74,7 @@ The T5X GitHub repo includes [references](https://github.com/google-research/t5x
 
 <img src="images/codechat-bison-gradio.png" alt="codechat-bison LLM demo" width="300"/>
 
+* Lab 05-4: [Comparison LLMs](05-llm/05-4-comparison-llms.ipynb)
 * Lab 05-5: [LLM evaluation (classification)](05-llm/05-5-eval-classification.ipynb)
 * Lab 05-6: [LLM evaluation (summarization)](05-llm/05-6-eval-summarization.ipynb)
 * Lab 05-7: [LLM evaluation (text generation)](05-llm/05-7-eval-textgeneration.ipynb)

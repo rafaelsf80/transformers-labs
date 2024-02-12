@@ -6,7 +6,7 @@ import gradio as gr
 import vertexai
 from vertexai.preview.language_models import TextGenerationModel
 
-# TODO: CHANGE PROJECT_ID
+# TODO: Change PROJECT_ID
 PROJECT_ID = "YOUR_PROJECT_ID" # <--- CHANGE THIS
 LOCATION = "us-central1" 
 
@@ -17,8 +17,6 @@ model = TextGenerationModel.from_pretrained("text-bison@001")
 def predict(prompt, max_output_tokens, temperature, top_p, top_k):
     answer = model.predict(
         prompt,
-        #"Best receipt for banana bread:",
-        #"Brainstorm some ideas combining VR and fitness:",
         max_output_tokens=max_output_tokens, #128
         temperature=temperature,#0
         top_p=top_p, #1

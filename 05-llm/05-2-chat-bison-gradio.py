@@ -6,7 +6,7 @@ import gradio as gr
 import vertexai
 from vertexai.preview.language_models import ChatModel
 
-# TODO: CHANGE PROJECT_ID
+# TODO: Change PROJECT_ID
 PROJECT_ID = "YOUR_PROJECT_ID" # <--- CHANGE THIS
 LOCATION = "us-central1" 
 
@@ -14,7 +14,6 @@ vertexai.init(project=PROJECT_ID, location=LOCATION)
 
 chat_model = ChatModel.from_pretrained("chat-bison@001")
 
-# Preamble=Somewhere nearby is Colossal Cave, where others have found fortunes in treasure and gold. Magic is said to work in the cave.
 chat = chat_model.start_chat()
 
 def add_text(history, text):

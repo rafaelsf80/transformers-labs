@@ -6,7 +6,7 @@ import gradio as gr
 import vertexai
 from vertexai.preview.language_models import CodeChatModel
 
-# TODO: CHANGE PROJECT_ID
+# TODO: Change PROJECT_ID
 PROJECT_ID = "YOUR_PROJECT_ID" # <--- CHANGE THIS
 LOCATION = "us-central1" 
 
