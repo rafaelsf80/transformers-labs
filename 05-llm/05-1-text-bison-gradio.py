@@ -21,7 +21,7 @@ def predict(prompt, max_output_tokens, temperature, top_p, top_k):
         temperature=temperature,#0
         top_p=top_p, #1
         top_k=top_k) #40
-    return answer
+    return answer.text
 
 demo = gr.Interface(
     predict, 
@@ -34,4 +34,4 @@ demo = gr.Interface(
     "text"
     )
 
-demo.launch(server_name="0.0.0.0", server_port=7860)
+demo.launch(server_name="0.0.0.0", server_port=7860, share=True)

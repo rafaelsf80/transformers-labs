@@ -74,7 +74,7 @@ The T5X GitHub repo includes [references](https://github.com/google-research/t5x
 
 <img src="images/codechat-bison-gradio.png" alt="codechat-bison LLM demo" width="300"/>
 
-* Lab 05-4: [Comparison LLMs](05-llm/05-4-comparison-llms.ipynb)
+* Lab 05-4: [LLM Comparison](05-llm/05-4-comparison-llms.ipynb)
 * Lab 05-5: [LLM evaluation (classification)](05-llm/05-5-eval-classification.ipynb)
 * Lab 05-6: [LLM evaluation (summarization)](05-llm/05-6-eval-summarization.ipynb)
 * Lab 05-7: [LLM evaluation (text generation)](05-llm/05-7-eval-textgeneration.ipynb)
@@ -118,6 +118,10 @@ Demo script with **Duet AI for Developers** in VS code:
 
 
 ## Use Cases with transformers
+
+### Pre-training
+
+* **pretraining-bert-wikitext-tf-vertex**: custom training pipeline for BERT pre-training, with script located at `trainer.py`, using Hugging Face.
 
 ### Classification
 
