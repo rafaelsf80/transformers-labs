@@ -5,17 +5,20 @@
 * Lab 01-1: [Intro tokenizers](01-embeddings-tokenizers/01-1-intro-tokenizers.ipynb)
 * Lab 01-2: [Tokenizer comparison](01-embeddings-tokenizers/01-2-tokenizers-comparison.ipynb): embeddings and tokenizers like [tiktoken](https://github.com/openai/tiktoken) which is a fast BPE tokeniser for use with OpenAI's models; or [Wordpiece](https://keras.io/api/keras_nlp/tokenizers/word_piece_tokenizer/) which is the tokenizer used to train BERT. 
 * Lab 01-3: [Load text with TensorFlow: preprocessing](01-embeddings-tokenizers/01-3-loadtext.ipynb)
-* Lab 01-4: [Embeddings layers](01-embeddings-tokenizers/01-4-embeddings.ipynb)
-* Lab 01-5: [ScaNN](01-embeddings-tokenizers/01-5-scann.ipynb)
-* Lab 01-6: [Word2Vec](01-embeddings-tokenizers/01-6-word2vec-get-dataset.ipynb)
+* Lab 01-4: [Embeddings intro to Keras layers](01-embeddings-tokenizers/01-4-embeddings-intro.ipynb)
+* Lab 01-5: [Embeddings layers](01-embeddings-tokenizers/01-5-embeddings.ipynb)
+* Lab 01-6: [ScaNN](01-embeddings-tokenizers/01-6-scann.ipynb)
+* Lab 01-7: [Work2vec and Glove visualizations](01-embeddings-tokenizers/01-7-word2vec-glove-viz.ipynb)
+* Lab 01-8: [Word2Vec](01-embeddings-tokenizers/01-8-word2vec-get-dataset.ipynb)
 
 
 ## 02 Recurrent Neural Networks
 
-* Lab 02-1: [Activation functions](02-rnn-lstm/02-1-activation-functions.ipynb)
-* Lab 02-2: [RNN vanilla and LSTM cells in Keras](02-rnn-lstm/02-2-rnn-vanilla.ipynb)
+* Lab 01-2: [Pretrained embeddings with RNN](02-rnn-lstm/02-1-pretrained-embeddings.ipynb)
+* Lab 02-2: [Text generation with RNN](02-rnn-lstm/02-2-sonnet-text-generation.ipynb)
 * Lab 02-3: [Load Text with TensorFlow: training](02-rnn-lstm/02-3-loadtext-full.ipynb)
 * Lab 02-4: [Dataset hubs](02-rnn-lstm/02-4-datasets.ipynb)
+* Lab 02-5: [Activation functions](02-rnn-lstm/02-5-activation-functions.ipynb)
 
 
 ## 03 Attention mechanisms
