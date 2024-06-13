@@ -17,8 +17,12 @@
 * Lab 02-1: [Load Text with TensorFlow: RNN training](02-rnn-lstm/02-1-loadtext-full.ipynb)
 * Lab 02-2: [Pretrained embeddings with RNN](02-rnn-lstm/02-2-pretrained-embeddings.ipynb)
 * Lab 02-3: [Text generation with RNN](02-rnn-lstm/02-3-sonnet-text-generation.ipynb)
-* Lab 02-4: [Dataset hubs](02-rnn-lstm/02-4-datasets.ipynb)
-* Lab 02-5: [Activation functions](02-rnn-lstm/02-5-activation-functions.ipynb)
+* Lab 02-4: [Naive moving average](02-rnn-lstm/02-4-naive-moving-avg-synth-data.ipynb)
+* Lab 02-5: [Windows dataset](02-rnn-lstm/02-5-windowed-dataset.ipynb)
+* Lab 02-6: [LR scheduler](02-rnn-lstm/02-6-lr-scheduler.ipynb)
+* Lab 02-7: [CNN LSTM](02-rnn-lstm/02-7-cnn-lstm.ipynb)
+* Lab 02-8: [Dataset hubs](02-rnn-lstm/02-8-datasets.ipynb)
+* Lab 02-9: [Activation functions](02-rnn-lstm/02-9-activation-functions.ipynb)
 
 
 ## 03 Attention mechanisms
