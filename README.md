@@ -4,11 +4,10 @@
 
 * Lab 01-1: [Intro tokenizers](01-embeddings-tokenizers/01-1-intro-tokenizers.ipynb)
 * Lab 01-2: [Tokenizer comparison](01-embeddings-tokenizers/01-2-tokenizers-comparison.ipynb): embeddings and tokenizers like [tiktoken](https://github.com/openai/tiktoken) which is a fast BPE tokeniser for use with OpenAI's models; or [Wordpiece](https://keras.io/api/keras_nlp/tokenizers/word_piece_tokenizer/) which is the tokenizer used to train BERT. 
-* Lab 01-3: [Embeddings intro to Keras layers](01-embeddings-tokenizers/01-3-embeddings-intro.ipynb)
+* Lab 01-3: [Embeddings and Keras layers](01-embeddings-tokenizers/01-3-embeddings.ipynb)
 * Lab 01-4: [Load text with TensorFlow: preprocessing](01-embeddings-tokenizers/01-4-loadtext.ipynb)
-* Lab 01-5: [Embeddings layers](01-embeddings-tokenizers/01-5-embeddings.ipynb)
+* Lab 01-5: [NLP libraries and visualizations](01-embeddings-tokenizers/01-5-nlp-libraries.ipynb)
 * Lab 01-6: [ScaNN](01-embeddings-tokenizers/01-6-scann.ipynb)
-* Lab 01-7: [Work2vec and Glove visualizations](01-embeddings-tokenizers/01-7-word2vec-glove-viz.ipynb)
 * Lab 01-8: [Word2Vec](01-embeddings-tokenizers/01-8-word2vec-get-dataset.ipynb)
 
 
