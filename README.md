@@ -20,11 +20,9 @@
 * Lab 02-5: [Windows dataset](02-rnn-lstm/02-5-windowed-dataset.ipynb)
 * Lab 02-6: [LR scheduler](02-rnn-lstm/02-6-lr-scheduler.ipynb)
 * Lab 02-7: [CNN LSTM](02-rnn-lstm/02-7-cnn-lstm.ipynb)
-* Lab 02-8: [Dataset hubs](02-rnn-lstm/02-8-datasets.ipynb)
-* Lab 02-9: [Activation functions](02-rnn-lstm/02-9-activation-functions.ipynb)
 
 
-## 03 Attention mechanisms
+## 03 Attention and transformers
 
 * Lab 03-1: [Load Text with TensorFlow: Conv1D layers](03-attention-transformers/03-1-loadtext-full-conv1d.ipynb)
 * Lab 03-2: [Self attention](03-attention-transformers/03-2-self-attention.ipynb)
@@ -32,11 +30,13 @@
 * Lab 03-4: [Keras NLP](03-attention-transformers/03-4-keras-nlp.ipynb)
 * Lab 03-5: [Tiny transformers with Keras NLP](03-attention-transformers/03-5-tiny-transformer-keras-nlp.ipynb)
 * Lab 03-6: [Hugging Face SDK introduction](03-attention-transformers/03-6-huggingface.ipynb)
+* Lab 03-7: [Model hubs](03-attention-transformers/03-7-modelhub.ipynb)
+* Lab 03-8: [Dataset hubs](03-attention-transformers/03-8-datasets.ipynb)
+* Lab 03-9: [Activation functions](03-attention-transformers/03-9-activation-functions.ipynb)
 
 
 ## 04 First-generation LLM models (Pre-Chinchilla). Pre-training
 
-* Lab 04-1: [Model hubs](04-pretraining-bert/04-1-modelhub.ipynb)
 * Lab 04-2: [BERT pre-training with Keras NLP](04-pretraining-bert/04-2-pretraining-bert-keras-nlp.ipynb) 
 * Lab 04-3: [BERT pre-training with Keras NLP and `keras_nlp.models.BertBackbone` class](04-pretraining-bert/04-3-pretraining-bert-keras-backbone.ipynb)
 * Lab 04-4: [BERT pre-training with Hugging Face transformers](04-pretraining-bert/04-4-pretraining-bert-hf.ipynb)
