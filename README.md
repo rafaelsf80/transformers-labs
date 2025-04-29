@@ -27,7 +27,7 @@
 * Lab 03-1: [Load Text with TensorFlow: Conv1D layers](03-attention-transformers/03-1-loadtext-full-conv1d.ipynb)
 * Lab 03-2: [Self attention](03-attention-transformers/03-2-self-attention.ipynb)
 * Lab 03-3: [Absolute Positional Encoding](03-attention-transformers/03-3-positional-encodings-ape.ipynb)
-* Lab 03-4: [Keras NLP](03-attention-transformers/03-4-keras-nlp.ipynb)
+* Lab 03-4: [Keras NLP SDK introduction](03-attention-transformers/03-4-keras-nlp.ipynb)
 * Lab 03-5: [Tiny transformers with Keras NLP](03-attention-transformers/03-5-tiny-transformer-keras-nlp.ipynb)
 * Lab 03-6: [Hugging Face SDK introduction](03-attention-transformers/03-6-huggingface.ipynb)
 * Lab 03-7: [Model hubs](03-attention-transformers/03-7-modelhub.ipynb)
