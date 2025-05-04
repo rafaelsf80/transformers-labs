@@ -43,9 +43,9 @@
 * Lab 04-5: [Inference mT5. Summarization](04-pretraining-bert/04-5-summarization-mt5.ipynb)
 * Lab 04-6: [Inference and finetuning FinBERT. Classification](04-pretraining-bert/04-6-classification-finbert.ipynb)
 * Lab 04-7: [Inference RoBERTalex. Classification](04-pretraining-bert/04-7-classification-robertalex.ipynb)
-* Lab 04-8: [Inference and finetuning BERT. Translation from Spanish to German using `transformers.pipeline`](04-pretraining-bert/04-8-translate-es-de.ipynb)
+* Lab 04-8: [Inference and finetuning OPUS-MT. Translation from Spanish to German using `transformers.pipeline`](04-pretraining-bert/04-8-translate-es-de.ipynb)
 
-Frameworks for pre-training:
+Other frameworks for pre-training:
 
 * **Merlin:** NVIDIA Merlin is an open-source framework for building large-scale deep learning recommender system. Integration with Vertex AI is detailed [here](https://github.com/GoogleCloudPlatform/nvidia-merlin-on-vertex-ai).
 * **T5X:** framework to build and train LLMs at scale, allowing to use Vertex AI and Cloud TPUs.
