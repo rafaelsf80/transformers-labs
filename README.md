@@ -68,17 +68,17 @@ The T5X GitHub repo includes [references](https://github.com/google-research/t5x
 
 ## 05 Second-generation LLM models (Post-Chinchilla). Evaluation.
 
-* Lab 05-1: text-bison-gradio: `text-bison@001` lab in Gradio. Refer to this [Medium post](https://medium.com/google-cloud/generative-ai-palm-2-model-deployment-with-cloud-run-54e8a398b24b) for deployment of text generation models in Cloud Run.
+* Lab 05-1: gemini-gradio: `gemini-2.0-flash` lab in Gradio. Refer to this [Medium post](https://medium.com/google-cloud/generative-ai-palm-2-model-deployment-with-cloud-run-54e8a398b24b) for deployment of text generation models in Cloud Run.
 
-<img src="images/text-bison-gradio.png" alt="text-bison LLM demo" width="300"/>
+<img src="images/text-gemini-gradio.png" alt="Gemini LLM demo" width="300"/>
 
-* Lab 05-2: chat-bison-gradio: `chat-bison@001` lab in Gradio.
+* Lab 05-2: chat-gemini-gradio: `gemini-2.0-flash` lab in Gradio.
 
-<img src="images/chat-bison-gradio.png" alt="chat-bison LLM demo" width="300"/>
+<img src="images/chat-gemini-gradio.png" alt="Chat Gemini LLM demo" width="300"/>
 
-* Lab 05-3: codechat-bison-gradio: `codechat-bison@001` lab in Gradio. Demo script (for Gradio or Generative AI Studio): 1. _"Generate Python code for a TensorFlow model to do classification using the MNIST dataset"_ 2. _"Explain Adam optimizer and also suggest other optimizers"_
+* Lab 05-3: codechat-gemini-gradio: `gemini-2.0-flash` lab in Gradio. Demo script (for Gradio or Generative AI Studio): 1. _"Generate Python code for a TensorFlow model to do classification using the MNIST dataset"_ 2. _"Explain Adam optimizer and also suggest other optimizers"_
 
-<img src="images/codechat-bison-gradio.png" alt="codechat-bison LLM demo" width="300"/>
+<img src="images/codechat-gemini-gradio.png" alt="Code Gemini LLM demo" width="300"/>
 
 * Lab 05-4: [LLM Comparison](05-llm/05-4-comparison-llms.ipynb)
 * Lab 05-5: [LLM evaluation (classification)](05-llm/05-5-eval-classification.ipynb)
