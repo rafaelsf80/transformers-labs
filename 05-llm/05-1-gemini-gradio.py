@@ -5,7 +5,6 @@ import gradio as gr
 
 from google import genai
 from google.genai.types import GenerateContentConfig
-import vertexai
 
 # TODO: Change PROJECT_ID
 PROJECT_ID = "YOUR_PROJECT_ID" # <--- CHANGE THIS
