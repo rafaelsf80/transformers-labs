@@ -76,7 +76,7 @@ The T5X GitHub repo includes [references](https://github.com/google-research/t5x
 
 <img src="images/chat-gemini-gradio.png" alt="Chat Gemini LLM demo" width="300"/>
 
-* Lab 05-3: codechat-gemini-gradio: `gemini-2.0-flash` lab in Gradio. Demo script (for Gradio or Generative AI Studio): 1. _"Generate Python code for a TensorFlow model to do classification using the MNIST dataset"_ 2. _"Explain Adam optimizer and also suggest other optimizers"_
+* Lab 05-3: code-execution-gemini-gradio: `gemini-2.0-flash` lab in Gradio. Demo script (for Gradio or Generative AI Studio): 1. _"Generate Python code for a TensorFlow model to do classification using the MNIST dataset"_ 2. _"Explain Adam optimizer and also suggest other optimizers"_
 
 <img src="images/codechat-gemini-gradio.png" alt="Code Gemini LLM demo" width="300"/>
 

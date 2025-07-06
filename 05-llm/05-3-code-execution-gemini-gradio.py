@@ -4,20 +4,18 @@ from google import genai
 from google.genai.types import Tool, ToolCodeExecution, GenerateContentConfig
 import vertexai
 
-# TODO: Change PROJECT_ID
-PROJECT_ID = "YOUR_PROJECT_ID" # <--- CHANGE THIS
-LOCATION = "europe-west4"
-MODEL_GOOGLE = "gemini-2.0-flash"
+MODEL_GOOGLE = "gemini-2.5-flash"
 
-vertexai.init(project=PROJECT_ID, location=LOCATION)
+import getpass
+google_api_key = getpass.getpass() 
 
-client = genai.Client(vertexai=True, project=PROJECT_ID, location=LOCATION)
+google_client = genai.Client(api_key=google_api_key)
 
 code_execution_tool = Tool(
     code_execution=ToolCodeExecution()
 )
 
-code_chat = client.chats.create(
+code_chat = google_client.chats.create(
     model=MODEL_GOOGLE,
     config=GenerateContentConfig(
         system_instruction="You are an expert software engineer, proficient in Python."

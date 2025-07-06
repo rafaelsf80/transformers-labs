@@ -1,22 +1,20 @@
-""" Simple chat with gemini-2.0-flash on Gradio
+""" Simple chat with gemini-2.5-flash on Gradio
 """
 
 import gradio as gr
 
 from google import genai
 from google.genai.types import GenerateContentConfig
-import vertexai
 
-# TODO: Change PROJECT_ID
-PROJECT_ID = "YOUR_PROJECT_ID" # <--- CHANGE THIS
-LOCATION = "europe-west4"
-MODEL_GOOGLE = "gemini-2.0-flash"
+MODEL_GOOGLE = "gemini-2.5-flash"
 
-vertexai.init(project=PROJECT_ID, location=LOCATION)
+import getpass
+google_api_key = getpass.getpass() 
 
-client = genai.Client(vertexai=True, project=PROJECT_ID, location=LOCATION)
+google_client = genai.Client(api_key=google_api_key)
 
-chat = client.chats.create(
+
+chat = google_client.chats.create(
     model=MODEL_GOOGLE,
     config=GenerateContentConfig(
         system_instruction="You are an helpful assistant."
@@ -42,8 +40,8 @@ def bot(history):
 with gr.Blocks() as io:
     gr.Markdown(
         """
-    # gemini-2.0-flash
-    ## This demo shows  chat with gemini-2.0-flash
+    # gemini-2.5-flash
+    ## This demo shows chat with gemini-2.5-flash
     """
     )
 
@@ -65,4 +63,4 @@ with gr.Blocks() as io:
         bot, chatbot, chatbot
     )
 
-io.launch(server_name="0.0.0.0", server_port=7860, share=True)
+io.launch(server_name="0.0.0.0", server_port=7860, share=True, debug=True)
