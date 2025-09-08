@@ -18,9 +18,7 @@ code_execution_tool = Tool(
 code_chat = google_client.chats.create(
     model=MODEL_GOOGLE,
     config=GenerateContentConfig(
-        system_instruction="You are an expert software engineer, proficient in Python."
-    ),
-        config=GenerateContentConfig(
+        system_instruction="You are an expert software engineer, proficient in Python.",
         tools=[code_execution_tool],
         temperature=0,
     ),
